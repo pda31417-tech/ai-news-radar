@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-10-13T16:10:44.271227Z",
+  "generated_at": "2026-10-13T21:52:50.427406Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0b5ea0aa6745",
+      "title": "Gemini 4 Argon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b6ddea26aac5345367d8749b0949cb793c91c850",
+          "title": "Gemini 4 Argon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Argon in GitHub Copilot",
+          "title_original": "Gemini 4 Argon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T18:39:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b6ddea26aac5345367d8749b0949cb793c91c850",
+          "title": "Gemini 4 Argon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Argon in GitHub Copilot",
+          "title_original": "Gemini 4 Argon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T18:39:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8518,
+      "importance": 0.8518,
+      "importance_score": 0.8518,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9546,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T18:39:56Z",
+      "latest_at": "2026-10-13T18:39:56Z",
+      "primary_item": {
+        "id": "b6ddea26aac5345367d8749b0949cb793c91c850",
+        "title": "Gemini 4 Argon in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Gemini 4 Argon in GitHub Copilot",
+        "title_original": "Gemini 4 Argon in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T22:30:25.076161Z"
+      }
+    },
     {
       "story_id": "story_7e7580bbc9b4",
       "title": "Gemini 4 Argon for Robotics",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8636,
-      "importance": 0.8636,
-      "importance_score": 0.8636,
+      "score": 0.8494,
+      "importance": 0.8494,
+      "importance_score": 0.8494,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.9979,
+        "recency": 0.919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,12 +174,99 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
+      }
+    },
+    {
+      "story_id": "story_e4780bdccfac",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "567ee7a3adaf80d955228f167072a768666a7393",
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "title_zh": null,
+          "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "title_original": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:05:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "567ee7a3adaf80d955228f167072a768666a7393",
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "title_zh": null,
+          "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "title_original": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:05:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9332,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T17:05:48Z",
+      "latest_at": "2026-10-13T17:05:48Z",
+      "primary_item": {
+        "id": "567ee7a3adaf80d955228f167072a768666a7393",
+        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "title_zh": null,
+        "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "title_original": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
       "story_id": "story_7d588311103d",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
       "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
       "source": "Google AI Blog",
@@ -100,8 +274,8 @@
       "sources": [
         {
           "id": "373cf49b91ed75fb644ccf052521c55f368114c9",
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "title_zh": null,
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+          "title_zh": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
           "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
           "title_original": "Gemini 4 Argon: Built to solve your hardest problems",
           "summary": null,
@@ -122,8 +296,8 @@
       "items": [
         {
           "id": "373cf49b91ed75fb644ccf052521c55f368114c9",
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "title_zh": null,
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+          "title_zh": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
           "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
           "title_original": "Gemini 4 Argon: Built to solve your hardest problems",
           "summary": null,
@@ -139,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9974,
+        "recency": 0.9186,
         "story_heat": 0.0
       },
       "category": "official",
@@ -160,8 +334,8 @@
       "latest_at": "2026-10-13T16:00:00Z",
       "primary_item": {
         "id": "373cf49b91ed75fb644ccf052521c55f368114c9",
-        "title": "Gemini 4 Argon: Built to solve your hardest problems",
-        "title_zh": null,
+        "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+        "title_zh": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
         "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
         "title_original": "Gemini 4 Argon: Built to solve your hardest problems",
         "summary": null,
@@ -174,67 +348,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
-      "story_id": "story_564a92d1b485",
-      "title": "Improved detection for withdrawn Dependabot alerts",
-      "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
-      "primary_url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
-      "source": "GitHub Changelog",
+      "story_id": "story_245708e44bc0",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+      "primary_url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fcd8d5a9a5318dea4fd7c6fad1266a55537e35da",
-          "title": "Improved detection for withdrawn Dependabot alerts",
+          "id": "f01f3a7d310f4a1b757425586ff23944627db99b",
+          "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
           "title_zh": null,
-          "title_en": "Improved detection for withdrawn Dependabot alerts",
-          "title_original": "Improved detection for withdrawn Dependabot alerts",
+          "title_en": "GitHub’s model for secret detection: Finding more secrets with less noise",
+          "title_original": "GitHub’s model for secret detection: Finding more secrets with less noise",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
-          "source": "GitHub Changelog",
+          "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T14:03:57Z",
+          "published_at": "2026-10-13T17:56:33Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "fcd8d5a9a5318dea4fd7c6fad1266a55537e35da",
-          "title": "Improved detection for withdrawn Dependabot alerts",
+          "id": "f01f3a7d310f4a1b757425586ff23944627db99b",
+          "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
           "title_zh": null,
-          "title_en": "Improved detection for withdrawn Dependabot alerts",
-          "title_original": "Improved detection for withdrawn Dependabot alerts",
+          "title_en": "GitHub’s model for secret detection: Finding more secrets with less noise",
+          "title_original": "GitHub’s model for secret detection: Finding more secrets with less noise",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
-          "source": "GitHub Changelog",
+          "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T14:03:57Z",
+          "published_at": "2026-10-13T17:56:33Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9699,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,25 +417,199 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T14:03:57Z",
-      "latest_at": "2026-10-13T14:03:57Z",
+      "earliest_at": "2026-10-13T17:56:33Z",
+      "latest_at": "2026-10-13T17:56:33Z",
       "primary_item": {
-        "id": "fcd8d5a9a5318dea4fd7c6fad1266a55537e35da",
-        "title": "Improved detection for withdrawn Dependabot alerts",
+        "id": "f01f3a7d310f4a1b757425586ff23944627db99b",
+        "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
         "title_zh": null,
-        "title_en": "Improved detection for withdrawn Dependabot alerts",
-        "title_original": "Improved detection for withdrawn Dependabot alerts",
+        "title_en": "GitHub’s model for secret detection: Finding more secrets with less noise",
+        "title_original": "GitHub’s model for secret detection: Finding more secrets with less noise",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
-        "source": "GitHub Changelog",
+        "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
+      }
+    },
+    {
+      "story_id": "story_dab965516ebe",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "primary_url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b0e63afa98bf6e37537e118341ad346d5cffab20",
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "title_zh": null,
+          "title_en": "Higgsfield takes AI video from 1 minute to over 10",
+          "title_original": "Higgsfield takes AI video from 1 minute to over 10",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b0e63afa98bf6e37537e118341ad346d5cffab20",
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "title_zh": null,
+          "title_en": "Higgsfield takes AI video from 1 minute to over 10",
+          "title_original": "Higgsfield takes AI video from 1 minute to over 10",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.867,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T12:00:00Z",
+      "latest_at": "2026-10-13T12:00:00Z",
+      "primary_item": {
+        "id": "b0e63afa98bf6e37537e118341ad346d5cffab20",
+        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "title_zh": null,
+        "title_en": "Higgsfield takes AI video from 1 minute to over 10",
+        "title_original": "Higgsfield takes AI video from 1 minute to over 10",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T22:30:25.076161Z"
+      }
+    },
+    {
+      "story_id": "story_46f20f54d699",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "primary_url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "title_zh": null,
+          "title_en": "Developing Gemini 4 Argon responsibly and safely",
+          "title_original": "Developing Gemini 4 Argon responsibly and safely",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T19:43:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "title_zh": null,
+          "title_en": "Developing Gemini 4 Argon responsibly and safely",
+          "title_original": "Developing Gemini 4 Argon responsibly and safely",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T19:43:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8465,
+      "importance": 0.8465,
+      "importance_score": 0.8465,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9693,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T19:43:07Z",
+      "latest_at": "2026-10-13T19:43:07Z",
+      "primary_item": {
+        "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
+        "title": "Developing Gemini 4 Argon responsibly and safely",
+        "title_zh": null,
+        "title_en": "Developing Gemini 4 Argon responsibly and safely",
+        "title_original": "Developing Gemini 4 Argon responsibly and safely",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
@@ -379,15 +727,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9218,
+        "recency": 0.8489,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -414,30 +762,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
-      "story_id": "story_3881ff799aa4",
-      "title": "Search and filter for budgets now available",
-      "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
-      "primary_url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+      "story_id": "story_d010181126b6",
+      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "primary_url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14446fcecef84449e8d27784b7b08a63449d6e35",
-          "title": "Search and filter for budgets now available",
+          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+          "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
           "title_zh": null,
-          "title_en": "Search and filter for budgets now available",
-          "title_original": "Search and filter for budgets now available",
+          "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:06:09Z",
+          "published_at": "2026-10-13T16:12:36Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -448,33 +796,33 @@
       ],
       "items": [
         {
-          "id": "14446fcecef84449e8d27784b7b08a63449d6e35",
-          "title": "Search and filter for budgets now available",
+          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+          "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
           "title_zh": null,
-          "title_en": "Search and filter for budgets now available",
-          "title_original": "Search and filter for budgets now available",
+          "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:06:09Z",
+          "published_at": "2026-10-13T16:12:36Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9428,
+        "ai_relevance": 0.91,
+        "recency": 0.9214,
         "story_heat": 0.0
       },
       "category": "official",
@@ -483,17 +831,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T12:06:09Z",
-      "latest_at": "2026-10-13T12:06:09Z",
+      "earliest_at": "2026-10-13T16:12:36Z",
+      "latest_at": "2026-10-13T16:12:36Z",
       "primary_item": {
-        "id": "14446fcecef84449e8d27784b7b08a63449d6e35",
-        "title": "Search and filter for budgets now available",
+        "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+        "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
         "title_zh": null,
-        "title_en": "Search and filter for budgets now available",
-        "title_original": "Search and filter for budgets now available",
+        "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+        "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+        "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -501,94 +849,265 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
-      "story_id": "story_1327604ea90f",
-      "title": "GitHub Copilot 新手入门应用：如何让 Copilot 了解你的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f625de565a09",
+      "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60% / Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+      "url": "https://x.com/ArtificialAnlys/status/2110068185793970576",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2110068185793970576",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6025f2a1f2f1476572425a515efa301b659def40",
-          "title": "GitHub Copilot 新手入门应用：如何让 Copilot 了解你的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "title_zh": "GitHub Copilot 新手入门应用：如何让 Copilot 了解你的代码库",
-          "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "summary": null,
+          "id": "bc33939e48082779f5b1fa03933c1ea8aba6b828",
+          "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60% / Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+          "title_zh": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
+          "title_en": "Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+          "title_original": "Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+          "summary": "Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T17:43:59Z",
+          "url": "https://x.com/ArtificialAnlys/status/2110068185793970576",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T18:00:33Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "6025f2a1f2f1476572425a515efa301b659def40",
-          "title": "GitHub Copilot 新手入门应用：如何让 Copilot 了解你的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "title_zh": "GitHub Copilot 新手入门应用：如何让 Copilot 了解你的代码库",
-          "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "summary": null,
+          "id": "bc33939e48082779f5b1fa03933c1ea8aba6b828",
+          "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60% / Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+          "title_zh": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
+          "title_en": "Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+          "title_original": "Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+          "summary": "Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T17:43:59Z",
+          "url": "https://x.com/ArtificialAnlys/status/2110068185793970576",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T18:00:33Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
-      "importance_label": "官方更新",
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7232,
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9456,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T17:43:59Z",
-      "latest_at": "2026-10-12T17:43:59Z",
+      "earliest_at": "2026-10-13T18:00:33Z",
+      "latest_at": "2026-10-13T18:00:33Z",
       "primary_item": {
-        "id": "6025f2a1f2f1476572425a515efa301b659def40",
-        "title": "GitHub Copilot 新手入门应用：如何让 Copilot 了解你的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-        "title_zh": "GitHub Copilot 新手入门应用：如何让 Copilot 了解你的代码库",
-        "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-        "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-        "summary": null,
+        "id": "bc33939e48082779f5b1fa03933c1ea8aba6b828",
+        "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60% / Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+        "title_zh": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
+        "title_en": "Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+        "title_original": "Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
+        "summary": "Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/ArtificialAnlys/status/2110068185793970576",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
+      }
+    },
+    {
+      "story_id": "story_e1f4c7a875e0",
+      "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
+      "primary_url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f4a3e9592ee46fe829909fca7b0eee3e9cc03d57",
+          "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+          "title_zh": "Character.ai 破产文件显示 AI 商业模式难以为继",
+          "title_en": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+          "title_original": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+          "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T20:06:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "404 Media（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f4a3e9592ee46fe829909fca7b0eee3e9cc03d57",
+          "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+          "title_zh": "Character.ai 破产文件显示 AI 商业模式难以为继",
+          "title_en": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+          "title_original": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+          "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T20:06:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9748,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T20:06:53Z",
+      "latest_at": "2026-10-13T20:06:53Z",
+      "primary_item": {
+        "id": "f4a3e9592ee46fe829909fca7b0eee3e9cc03d57",
+        "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+        "title_zh": "Character.ai 破产文件显示 AI 商业模式难以为继",
+        "title_en": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+        "title_original": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+        "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
+        "recommend_reason_zh": null,
+        "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T22:30:25.076161Z"
+      }
+    },
+    {
+      "story_id": "story_35a5de0aa347",
+      "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw",
+      "url": "https://x.com/reach_vb/status/2110086935733833893",
+      "primary_url": "https://x.com/reach_vb/status/2110086935733833893",
+      "source": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df60096451cd548ff8b1205c04f0b8023dcd31d5",
+          "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw",
+          "title_zh": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金",
+          "title_en": "GPT 5.6 Sol btw",
+          "title_original": "GPT 5.6 Sol btw",
+          "summary": "XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/reach_vb/status/2110086935733833893",
+          "source": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T19:15:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Vaibhav Srivastav（OpenAI）(@reach_vb)"
+      ],
+      "items": [
+        {
+          "id": "df60096451cd548ff8b1205c04f0b8023dcd31d5",
+          "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw",
+          "title_zh": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金",
+          "title_en": "GPT 5.6 Sol btw",
+          "title_original": "GPT 5.6 Sol btw",
+          "summary": "XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/reach_vb/status/2110086935733833893",
+          "source": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T19:15:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9627,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T19:15:03Z",
+      "latest_at": "2026-10-13T19:15:03Z",
+      "primary_item": {
+        "id": "df60096451cd548ff8b1205c04f0b8023dcd31d5",
+        "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw",
+        "title_zh": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金",
+        "title_en": "GPT 5.6 Sol btw",
+        "title_original": "GPT 5.6 Sol btw",
+        "summary": "XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/reach_vb/status/2110086935733833893",
+        "source": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
@@ -640,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -674,216 +1193,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
-      "story_id": "story_8a809173e2e5",
-      "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "primary_url": "https://github.com/openai/codex/issues/48195",
-      "source": "Codex：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c9d10ab67673311a12bdbaad002267b02fe1faaf",
-          "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-          "title_zh": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-          "title_en": null,
-          "title_original": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-          "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/codex/issues/48195",
-          "source": "Codex：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T19:25:54.721000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b3f3a72b69c005c1b6292fb5d7ff956a404ef53b",
-          "title": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
-          "title_zh": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
-          "title_en": null,
-          "title_original": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/codex/issues/48195",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T19:25:54.721000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6fe5a8d164e027c2029a072c20f02b7642c050ea",
-          "title": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程 / Codex CLI installs a persistent, self-updating background daemon by default",
-          "title_zh": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
-          "title_en": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "title_original": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/codex/issues/48195",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-12T18:29:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "9a3904d8420618b314c5385243929e1aee3b2c58",
-          "title": "Codex CLI 默认安装常驻、可自我更新的后台守护进程 / Codex CLI installs a persistent, self-updating background daemon by default",
-          "title_zh": "Codex CLI 默认安装常驻、可自我更新的后台守护进程",
-          "title_en": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "title_original": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50060694",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T18:29:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Codex：GitHub Releases（RSS）",
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c9d10ab67673311a12bdbaad002267b02fe1faaf",
-          "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-          "title_zh": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-          "title_en": null,
-          "title_original": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-          "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/codex/issues/48195",
-          "source": "Codex：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T19:25:54.721000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b3f3a72b69c005c1b6292fb5d7ff956a404ef53b",
-          "title": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
-          "title_zh": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
-          "title_en": null,
-          "title_original": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/codex/issues/48195",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T19:25:54.721000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6fe5a8d164e027c2029a072c20f02b7642c050ea",
-          "title": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程 / Codex CLI installs a persistent, self-updating background daemon by default",
-          "title_zh": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
-          "title_en": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "title_original": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/codex/issues/48195",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-12T18:29:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "9a3904d8420618b314c5385243929e1aee3b2c58",
-          "title": "Codex CLI 默认安装常驻、可自我更新的后台守护进程 / Codex CLI installs a persistent, self-updating background daemon by default",
-          "title_zh": "Codex CLI 默认安装常驻、可自我更新的后台守护进程",
-          "title_en": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "title_original": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50060694",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T18:29:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7411,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T18:29:04Z",
-      "latest_at": "2026-10-12T19:25:54.721000Z",
-      "primary_item": {
-        "id": "c9d10ab67673311a12bdbaad002267b02fe1faaf",
-        "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-        "title_zh": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-        "title_en": null,
-        "title_original": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-        "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/openai/codex/issues/48195",
-        "source": "Codex：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
-      }
-    },
-    {
-      "story_id": "story_299fe0589862",
-      "title": "Code scanning 中 AI Scan 指标现已在 security overview 中展示 / Code scanning AI Scan metrics in security overview",
-      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "story_id": "story_64ef9b1ab8ef",
+      "title": "Audit GitHub Code Quality finding dismissals and reopenings",
+      "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
+      "primary_url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
-          "title": "Code scanning 中 AI Scan 指标现已在 security overview 中展示 / Code scanning AI Scan metrics in security overview",
-          "title_zh": "Code scanning 中 AI Scan 指标现已在 security overview 中展示",
-          "title_en": "Code scanning AI Scan metrics in security overview",
-          "title_original": "Code scanning AI Scan metrics in security overview",
+          "id": "aa486656083f121a3451399a829d6562cea51e70",
+          "title": "Audit GitHub Code Quality finding dismissals and reopenings",
+          "title_zh": null,
+          "title_en": "Audit GitHub Code Quality finding dismissals and reopenings",
+          "title_original": "Audit GitHub Code Quality finding dismissals and reopenings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+          "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:03:17Z",
+          "published_at": "2026-10-13T17:58:36Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -894,33 +1227,33 @@
       ],
       "items": [
         {
-          "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
-          "title": "Code scanning 中 AI Scan 指标现已在 security overview 中展示 / Code scanning AI Scan metrics in security overview",
-          "title_zh": "Code scanning 中 AI Scan 指标现已在 security overview 中展示",
-          "title_en": "Code scanning AI Scan metrics in security overview",
-          "title_original": "Code scanning AI Scan metrics in security overview",
+          "id": "aa486656083f121a3451399a829d6562cea51e70",
+          "title": "Audit GitHub Code Quality finding dismissals and reopenings",
+          "title_zh": null,
+          "title_en": "Audit GitHub Code Quality finding dismissals and reopenings",
+          "title_original": "Audit GitHub Code Quality finding dismissals and reopenings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+          "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:03:17Z",
+          "published_at": "2026-10-13T17:58:36Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8341,
+      "importance": 0.8341,
+      "importance_score": 0.8341,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9422,
+        "recency": 0.9452,
         "story_heat": 0.0
       },
       "category": "official",
@@ -929,17 +1262,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T12:03:17Z",
-      "latest_at": "2026-10-13T12:03:17Z",
+      "earliest_at": "2026-10-13T17:58:36Z",
+      "latest_at": "2026-10-13T17:58:36Z",
       "primary_item": {
-        "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
-        "title": "Code scanning 中 AI Scan 指标现已在 security overview 中展示 / Code scanning AI Scan metrics in security overview",
-        "title_zh": "Code scanning 中 AI Scan 指标现已在 security overview 中展示",
-        "title_en": "Code scanning AI Scan metrics in security overview",
-        "title_original": "Code scanning AI Scan metrics in security overview",
+        "id": "aa486656083f121a3451399a829d6562cea51e70",
+        "title": "Audit GitHub Code Quality finding dismissals and reopenings",
+        "title_zh": null,
+        "title_en": "Audit GitHub Code Quality finding dismissals and reopenings",
+        "title_original": "Audit GitHub Code Quality finding dismissals and reopenings",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+        "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -947,7 +1280,265 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
+      }
+    },
+    {
+      "story_id": "story_de72441365c9",
+      "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2 / Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+      "url": "https://x.com/arena/status/2110120205464846828",
+      "primary_url": "https://x.com/arena/status/2110120205464846828",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a92680988222daef99bc1e7ce0a83d35d6f5ccc2",
+          "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2 / Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+          "title_zh": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
+          "title_en": "Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+          "title_original": "Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+          "summary": "Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2110120205464846828",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T21:27:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "a92680988222daef99bc1e7ce0a83d35d6f5ccc2",
+          "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2 / Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+          "title_zh": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
+          "title_en": "Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+          "title_original": "Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+          "summary": "Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2110120205464846828",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T21:27:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T21:27:15Z",
+      "latest_at": "2026-10-13T21:27:15Z",
+      "primary_item": {
+        "id": "a92680988222daef99bc1e7ce0a83d35d6f5ccc2",
+        "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2 / Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+        "title_zh": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
+        "title_en": "Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+        "title_original": "Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
+        "summary": "Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2110120205464846828",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T22:30:25.076161Z"
+      }
+    },
+    {
+      "story_id": "story_552c975a2127",
+      "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+      "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+      "primary_url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a98c60eeae09a755ca52fc3665ec6c25f625b473",
+          "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "title_zh": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
+          "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "title_original": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a98c60eeae09a755ca52fc3665ec6c25f625b473",
+          "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "title_zh": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
+          "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "title_original": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7291,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T00:00:00Z",
+      "latest_at": "2026-10-13T00:00:00Z",
+      "primary_item": {
+        "id": "a98c60eeae09a755ca52fc3665ec6c25f625b473",
+        "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+        "title_zh": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
+        "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+        "title_original": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+        "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
+        "recommend_reason_zh": null,
+        "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T22:30:25.076161Z"
+      }
+    },
+    {
+      "story_id": "story_d3e22af5fa1a",
+      "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+      "url": "https://x.com/OpenRouter/status/2110044453977403412",
+      "primary_url": "https://x.com/OpenRouter/status/2110044453977403412",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cdfde445b10540f1a3407f8b5c99c59136036617",
+          "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "title_zh": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+          "title_en": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "title_original": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2110044453977403412",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:26:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "cdfde445b10540f1a3407f8b5c99c59136036617",
+          "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "title_zh": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+          "title_en": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "title_original": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2110044453977403412",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:26:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9244,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:26:15Z",
+      "latest_at": "2026-10-13T16:26:15Z",
+      "primary_item": {
+        "id": "cdfde445b10540f1a3407f8b5c99c59136036617",
+        "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+        "title_zh": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+        "title_en": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+        "title_original": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+        "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2110044453977403412",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
@@ -999,15 +1590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9416,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1033,67 +1624,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
-      "story_id": "story_2de9956c802f",
-      "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲 / Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-      "url": "https://x.com/ElevenLabs/status/2110037384192774210",
-      "primary_url": "https://x.com/ElevenLabs/status/2110037384192774210",
-      "source": "X：ElevenLabs (@elevenlabs)",
+      "story_id": "story_68cb7c4dc20a",
+      "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+      "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+      "primary_url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9f835ec8a9fecd176b147602f184012d50c5cd1d",
-          "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲 / Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-          "title_zh": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
-          "title_en": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-          "title_original": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-          "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。",
+          "id": "6e513cec15bb932c3321b6ed1eeab686b21e7bd0",
+          "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+          "title_zh": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
+          "title_en": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+          "title_original": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+          "summary": "OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ElevenLabs/status/2110037384192774210",
-          "source": "X：ElevenLabs (@elevenlabs)",
+          "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-13T15:58:09Z",
+          "published_at": "2026-10-13T19:48:42Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：ElevenLabs (@elevenlabs)"
+        "X：OpenAI Newsroom (@OpenAINewsroom)"
       ],
       "items": [
         {
-          "id": "9f835ec8a9fecd176b147602f184012d50c5cd1d",
-          "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲 / Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-          "title_zh": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
-          "title_en": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-          "title_original": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-          "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。",
+          "id": "6e513cec15bb932c3321b6ed1eeab686b21e7bd0",
+          "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+          "title_zh": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
+          "title_en": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+          "title_original": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+          "summary": "OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ElevenLabs/status/2110037384192774210",
-          "source": "X：ElevenLabs (@elevenlabs)",
+          "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-13T15:58:09Z",
+          "published_at": "2026-10-13T19:48:42Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.997,
+        "recency": 0.9706,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1101,145 +1692,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T15:58:09Z",
-      "latest_at": "2026-10-13T15:58:09Z",
+      "earliest_at": "2026-10-13T19:48:42Z",
+      "latest_at": "2026-10-13T19:48:42Z",
       "primary_item": {
-        "id": "9f835ec8a9fecd176b147602f184012d50c5cd1d",
-        "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲 / Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-        "title_zh": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
-        "title_en": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-        "title_original": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
-        "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。",
+        "id": "6e513cec15bb932c3321b6ed1eeab686b21e7bd0",
+        "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+        "title_zh": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
+        "title_en": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+        "title_original": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
+        "summary": "OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/ElevenLabs/status/2110037384192774210",
-        "source": "X：ElevenLabs (@elevenlabs)",
+        "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
-      }
-    },
-    {
-      "story_id": "story_d243d2985244",
-      "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Epic Games reportedly pivoting to \"AI first\" game development model",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-      "primary_url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7d3568cf839d0191fb131fb6112169799a6dea1",
-          "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Epic Games reportedly pivoting to \"AI first\" game development model",
-          "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
-          "title_en": "Epic Games reportedly pivoting to \"AI first\" game development model",
-          "title_original": "Epic Games reportedly pivoting to \"AI first\" game development model",
-          "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T20:59:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "447f0dc283e6b994d3e34e787068eb3d48330b0d",
-          "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Report: Epic Games goes all-in on AI for Disney collaboration",
-          "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
-          "title_en": "Report: Epic Games goes all-in on AI for Disney collaboration",
-          "title_original": "Report: Epic Games goes all-in on AI for Disney collaboration",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-12T20:59:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b7d3568cf839d0191fb131fb6112169799a6dea1",
-          "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Epic Games reportedly pivoting to \"AI first\" game development model",
-          "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
-          "title_en": "Epic Games reportedly pivoting to \"AI first\" game development model",
-          "title_original": "Epic Games reportedly pivoting to \"AI first\" game development model",
-          "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T20:59:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "447f0dc283e6b994d3e34e787068eb3d48330b0d",
-          "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Report: Epic Games goes all-in on AI for Disney collaboration",
-          "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
-          "title_en": "Report: Epic Games goes all-in on AI for Disney collaboration",
-          "title_original": "Report: Epic Games goes all-in on AI for Disney collaboration",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-12T20:59:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7581,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T20:59:50Z",
-      "latest_at": "2026-10-12T20:59:50Z",
-      "primary_item": {
-        "id": "b7d3568cf839d0191fb131fb6112169799a6dea1",
-        "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Epic Games reportedly pivoting to \"AI first\" game development model",
-        "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
-        "title_en": "Epic Games reportedly pivoting to \"AI first\" game development model",
-        "title_original": "Epic Games reportedly pivoting to \"AI first\" game development model",
-        "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     },
     {
@@ -1291,21 +1762,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7917,
+        "recency": 0.7291,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-13T00:00:00Z",
       "latest_at": "2026-10-13T00:00:00Z",
@@ -1325,639 +1795,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
-      }
-    },
-    {
-      "story_id": "story_43649a7a39af",
-      "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-      "url": "https://www.aibase.com/news/31613",
-      "primary_url": "https://www.aibase.com/news/31613",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8893e38751dc4d8d52a1065d8e94c5f3c9bbd096",
-          "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-          "title_zh": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-          "title_en": null,
-          "title_original": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:43:00.489839Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8893e38751dc4d8d52a1065d8e94c5f3c9bbd096",
-          "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-          "title_zh": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-          "title_en": null,
-          "title_original": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:43:00.489839Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9512,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:43:00.489839Z",
-      "latest_at": "2026-10-13T12:43:00.489839Z",
-      "primary_item": {
-        "id": "8893e38751dc4d8d52a1065d8e94c5f3c9bbd096",
-        "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-        "title_zh": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-        "title_en": null,
-        "title_original": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31613",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
-      }
-    },
-    {
-      "story_id": "story_38e71646a8e4",
-      "title": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "primary_url": "https://research.meta.ai/blog/muse-wonder",
-      "source": "Meta AI：Research Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e620771d571b7e2bb96f9afe597e455b31779d33",
-          "title": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-          "title_zh": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-          "title_en": null,
-          "title_original": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-          "summary": "Meta 发布 Muse Wonder 系列模型，称其在个人与专业智能体任务上达到 SOTA。Muse Wonder 通过 Meta Model API 和 Muse Code 提供，Muse Wonder Full 面向 Muse Code 订阅用户，后续将接入 Muse。",
-          "recommend_reason_zh": null,
-          "url": "https://research.meta.ai/blog/muse-wonder",
-          "source": "Meta AI：Research Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T17:33:59.334000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3b8ba7b2c5d0347bf333211140e88b56be505e44",
-          "title": "缪斯奇观",
-          "title_zh": "缪斯奇观",
-          "title_en": null,
-          "title_original": "缪斯奇观",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://research.meta.ai/blog/muse-wonder",
-          "source": "research.meta.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T17:33:59.334000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Meta AI：Research Blog（网页）",
-        "research.meta.ai"
-      ],
-      "items": [
-        {
-          "id": "e620771d571b7e2bb96f9afe597e455b31779d33",
-          "title": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-          "title_zh": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-          "title_en": null,
-          "title_original": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-          "summary": "Meta 发布 Muse Wonder 系列模型，称其在个人与专业智能体任务上达到 SOTA。Muse Wonder 通过 Meta Model API 和 Muse Code 提供，Muse Wonder Full 面向 Muse Code 订阅用户，后续将接入 Muse。",
-          "recommend_reason_zh": null,
-          "url": "https://research.meta.ai/blog/muse-wonder",
-          "source": "Meta AI：Research Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T17:33:59.334000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3b8ba7b2c5d0347bf333211140e88b56be505e44",
-          "title": "缪斯奇观",
-          "title_zh": "缪斯奇观",
-          "title_en": null,
-          "title_original": "缪斯奇观",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://research.meta.ai/blog/muse-wonder",
-          "source": "research.meta.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T17:33:59.334000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7214,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T17:33:59.334000Z",
-      "latest_at": "2026-10-12T17:33:59.334000Z",
-      "primary_item": {
-        "id": "e620771d571b7e2bb96f9afe597e455b31779d33",
-        "title": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-        "title_zh": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-        "title_en": null,
-        "title_original": "Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型",
-        "summary": "Meta 发布 Muse Wonder 系列模型，称其在个人与专业智能体任务上达到 SOTA。Muse Wonder 通过 Meta Model API 和 Muse Code 提供，Muse Wonder Full 面向 Muse Code 订阅用户，后续将接入 Muse。",
-        "recommend_reason_zh": null,
-        "url": "https://research.meta.ai/blog/muse-wonder",
-        "source": "Meta AI：Research Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
-      }
-    },
-    {
-      "story_id": "story_25f006d4bed0",
-      "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6bfeadaedc605b5f1b8037b8215dc35e1d366e2f",
-          "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-          "title_zh": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-          "title_en": null,
-          "title_original": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-          "summary": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T10:29:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "6bfeadaedc605b5f1b8037b8215dc35e1d366e2f",
-          "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-          "title_zh": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-          "title_en": null,
-          "title_original": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-          "summary": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T10:29:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9211,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T10:29:21Z",
-      "latest_at": "2026-10-13T10:29:21Z",
-      "primary_item": {
-        "id": "6bfeadaedc605b5f1b8037b8215dc35e1d366e2f",
-        "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-        "title_zh": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-        "title_en": null,
-        "title_original": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-        "summary": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
-      }
-    },
-    {
-      "story_id": "story_f0a7b95fb5f2",
-      "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-      "url": "https://x.com/arena/status/2109706854700044523",
-      "primary_url": "https://x.com/arena/status/2109706854700044523",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4eb616f6e8dfc1b04a7e40de0dddb587442f07d7",
-          "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "title_zh": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
-          "title_en": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "title_original": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "summary": "Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2109706854700044523",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T18:04:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "4eb616f6e8dfc1b04a7e40de0dddb587442f07d7",
-          "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "title_zh": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
-          "title_en": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "title_original": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "summary": "Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2109706854700044523",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T18:04:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7268,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T18:04:45Z",
-      "latest_at": "2026-10-12T18:04:45Z",
-      "primary_item": {
-        "id": "4eb616f6e8dfc1b04a7e40de0dddb587442f07d7",
-        "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-        "title_zh": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
-        "title_en": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-        "title_original": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-        "summary": "Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2109706854700044523",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
-      }
-    },
-    {
-      "story_id": "story_11769109c22f",
-      "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-      "url": "https://www.aibase.com/news/31611",
-      "primary_url": "https://www.aibase.com/news/31611",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d87523dd29bad7b9c2a6ad006e65b72fdfcfb4c9",
-          "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-          "title_zh": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-          "title_en": null,
-          "title_original": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31611",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:43:00.489839Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d87523dd29bad7b9c2a6ad006e65b72fdfcfb4c9",
-          "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-          "title_zh": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-          "title_en": null,
-          "title_original": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31611",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:43:00.489839Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9512,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:43:00.489839Z",
-      "latest_at": "2026-10-13T12:43:00.489839Z",
-      "primary_item": {
-        "id": "d87523dd29bad7b9c2a6ad006e65b72fdfcfb4c9",
-        "title": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-        "title_zh": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-        "title_en": null,
-        "title_original": "Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31611",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
-      }
-    },
-    {
-      "story_id": "story_bcdd8d085b93",
-      "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4f172c4abbb29f48b19f036cfe920cbc40312c05",
-          "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-          "title_zh": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-          "title_en": null,
-          "title_original": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-          "summary": "千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T08:06:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP（阿里）"
-      ],
-      "items": [
-        {
-          "id": "4f172c4abbb29f48b19f036cfe920cbc40312c05",
-          "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-          "title_zh": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-          "title_en": null,
-          "title_original": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-          "summary": "千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T08:06:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8901,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T08:06:57Z",
-      "latest_at": "2026-10-13T08:06:57Z",
-      "primary_item": {
-        "id": "4f172c4abbb29f48b19f036cfe920cbc40312c05",
-        "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-        "title_zh": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-        "title_en": null,
-        "title_original": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-        "summary": "千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
-        "source": "公众号：千问APP（阿里）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
-      }
-    },
-    {
-      "story_id": "story_decdd084ef50",
-      "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文 / Building Long-Running Agents with ScaleDown and Deep Agents",
-      "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-      "primary_url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7a5604bc69dd9fa836dd055de191e84722d814fb",
-          "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文 / Building Long-Running Agents with ScaleDown and Deep Agents",
-          "title_zh": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-          "title_en": "Building Long-Running Agents with ScaleDown and Deep Agents",
-          "title_original": "Building Long-Running Agents with ScaleDown and Deep Agents",
-          "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T11:56:53Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LangChain：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7a5604bc69dd9fa836dd055de191e84722d814fb",
-          "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文 / Building Long-Running Agents with ScaleDown and Deep Agents",
-          "title_zh": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-          "title_en": "Building Long-Running Agents with ScaleDown and Deep Agents",
-          "title_original": "Building Long-Running Agents with ScaleDown and Deep Agents",
-          "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T11:56:53Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9407,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T11:56:53Z",
-      "latest_at": "2026-10-13T11:56:53Z",
-      "primary_item": {
-        "id": "7a5604bc69dd9fa836dd055de191e84722d814fb",
-        "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文 / Building Long-Running Agents with ScaleDown and Deep Agents",
-        "title_zh": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-        "title_en": "Building Long-Running Agents with ScaleDown and Deep Agents",
-        "title_original": "Building Long-Running Agents with ScaleDown and Deep Agents",
-        "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
-        "recommend_reason_zh": null,
-        "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T16:31:12.998934Z"
+        "scored_at": "2026-10-13T22:30:25.076161Z"
       }
     }
   ]

@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 16:10:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 21:52:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
+<item>
+<title>Gemini 4 Argon in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</guid>
+<description>Gemini 4 Argon in GitHub Copilot (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 18:39:56 +0000</pubDate>
+</item>
 <item>
 <title>Gemini 4 Argon for Robotics</title>
 <link>https://deepmind.google/blog/gemini-4-argon-for-robotics</link>
@@ -14,6 +22,14 @@
 <description>Gemini 4 Argon for Robotics (Google DeepMind)</description>
 <category>Official update</category>
 <pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
+</item>
+<item>
+<title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+<link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+<description>Run fast, private agents on-device with LFM2.5-24B-A2B (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Argon: Built to solve your hardest problems</title>
@@ -24,12 +40,28 @@
 <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Improved detection for withdrawn Dependabot alerts</title>
-<link>https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</guid>
-<description>Improved detection for withdrawn Dependabot alerts (GitHub Changelog)</description>
+<title>GitHub’s model for secret detection: Finding more secrets with less noise</title>
+<link>https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise</guid>
+<description>GitHub’s model for secret detection: Finding more secrets with less noise (GitHub AI &amp; ML)</description>
 <category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 14:03:57 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 17:56:33 +0000</pubDate>
+</item>
+<item>
+<title>Higgsfield takes AI video from 1 minute to over 10</title>
+<link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+<guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
+<description>Higgsfield takes AI video from 1 minute to over 10 (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Developing Gemini 4 Argon responsibly and safely</title>
+<link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</link>
+<guid isPermaLink="true">https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</guid>
+<description>Developing Gemini 4 Argon responsibly and safely (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
 </item>
 <item>
 <title>Character.AI files for bankruptcy</title>
@@ -40,20 +72,36 @@
 <pubDate>Tue, 13 Oct 2026 13:58:25 +0000</pubDate>
 </item>
 <item>
-<title>Search and filter for budgets now available</title>
-<link>https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</guid>
-<description>Search and filter for budgets now available (GitHub Changelog)</description>
+<title>Secret scanning blocks Anthropic keys by default, adds Salesforce</title>
+<link>https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</guid>
+<description>Secret scanning blocks Anthropic keys by default, adds Salesforce (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 12:06:09 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 16:12:36 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot app for Beginners: How to teach Copilot about your codebase</title>
-<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</guid>
-<description>GitHub Copilot app for Beginners: How to teach Copilot about your codebase (GitHub AI &amp; ML)</description>
-<category>Official update</category>
-<pubDate>Mon, 12 Oct 2026 17:43:59 +0000</pubDate>
+<title>Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...</title>
+<link>https://x.com/ArtificialAnlys/status/2110068185793970576</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2110068185793970576</guid>
+<description>Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 18:00:33 +0000</pubDate>
+</item>
+<item>
+<title>Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work</title>
+<link>https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work</link>
+<guid isPermaLink="true">https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work</guid>
+<description>Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 20:06:53 +0000</pubDate>
+</item>
+<item>
+<title>GPT 5.6 Sol btw</title>
+<link>https://x.com/reach_vb/status/2110086935733833893</link>
+<guid isPermaLink="true">https://x.com/reach_vb/status/2110086935733833893</guid>
+<description>GPT 5.6 Sol btw</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 19:15:03 +0000</pubDate>
 </item>
 <item>
 <title>Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</title>
@@ -64,20 +112,36 @@
 <pubDate>Tue, 13 Oct 2026 12:23:42 +0000</pubDate>
 </item>
 <item>
-<title>用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程</title>
-<link>https://github.com/openai/codex/issues/48195</link>
-<guid isPermaLink="true">https://github.com/openai/codex/issues/48195</guid>
-<description>用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 12 Oct 2026 19:25:54 +0000</pubDate>
+<title>Audit GitHub Code Quality finding dismissals and reopenings</title>
+<link>https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings</guid>
+<description>Audit GitHub Code Quality finding dismissals and reopenings (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 17:58:36 +0000</pubDate>
 </item>
 <item>
-<title>Code scanning AI Scan metrics in security overview</title>
-<link>https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</guid>
-<description>Code scanning AI Scan metrics in security overview (GitHub Changelog)</description>
+<title>Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!</title>
+<link>https://x.com/arena/status/2110120205464846828</link>
+<guid isPermaLink="true">https://x.com/arena/status/2110120205464846828</guid>
+<description>Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 21:27:15 +0000</pubDate>
+</item>
+<item>
+<title>Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon</title>
+<link>https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon</link>
+<guid isPermaLink="true">https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon</guid>
+<description>Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon</description>
 <category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 12:03:17 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</title>
+<link>https://x.com/OpenRouter/status/2110044453977403412</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2110044453977403412</guid>
+<description>Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 16:26:15 +0000</pubDate>
 </item>
 <item>
 <title>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
@@ -88,20 +152,12 @@
 <pubDate>Tue, 13 Oct 2026 12:00:49 +0000</pubDate>
 </item>
 <item>
-<title>Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...</title>
-<link>https://x.com/ElevenLabs/status/2110037384192774210</link>
-<guid isPermaLink="true">https://x.com/ElevenLabs/status/2110037384192774210</guid>
-<description>Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...</description>
+<title>We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...</title>
+<link>https://x.com/OpenAINewsroom/status/2110095403198849132</link>
+<guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2110095403198849132</guid>
+<description>We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...</description>
 <category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 15:58:09 +0000</pubDate>
-</item>
-<item>
-<title>Epic Games reportedly pivoting to "AI first" game development model</title>
-<link>https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration</link>
-<guid isPermaLink="true">https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration</guid>
-<description>Epic Games reportedly pivoting to "AI first" game development model</description>
-<category>Industry news</category>
-<pubDate>Mon, 12 Oct 2026 20:59:50 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 19:48:42 +0000</pubDate>
 </item>
 <item>
 <title>October 13, 2026</title>
@@ -110,62 +166,6 @@
 <description>October 13, 2026</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同</title>
-<link>https://www.aibase.com/news/31613</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31613</guid>
-<description>700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 12:43:00 +0000</pubDate>
-</item>
-<item>
-<title>Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型</title>
-<link>https://research.meta.ai/blog/muse-wonder</link>
-<guid isPermaLink="true">https://research.meta.ai/blog/muse-wonder</guid>
-<description>Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型</description>
-<category>Industry news</category>
-<pubDate>Mon, 12 Oct 2026 17:33:59 +0000</pubDate>
-</item>
-<item>
-<title>面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行</title>
-<link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499456&amp;idx=1&amp;sn=03da7aed4dabbd4fca5c89ce88d4a90a</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499456&amp;idx=1&amp;sn=03da7aed4dabbd4fca5c89ce88d4a90a</guid>
-<description>面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 10:29:21 +0000</pubDate>
-</item>
-<item>
-<title>Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
-<link>https://x.com/arena/status/2109706854700044523</link>
-<guid isPermaLink="true">https://x.com/arena/status/2109706854700044523</guid>
-<description>Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</description>
-<category>Industry news</category>
-<pubDate>Mon, 12 Oct 2026 18:04:45 +0000</pubDate>
-</item>
-<item>
-<title>Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产</title>
-<link>https://www.aibase.com/news/31611</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31611</guid>
-<description>Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 12:43:00 +0000</pubDate>
-</item>
-<item>
-<title>千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb</guid>
-<description>千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 08:06:57 +0000</pubDate>
-</item>
-<item>
-<title>Building Long-Running Agents with ScaleDown and Deep Agents</title>
-<link>https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents</guid>
-<description>Building Long-Running Agents with ScaleDown and Deep Agents</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 11:56:53 +0000</pubDate>
 </item>
 </channel>
 </rss>
