@@ -5,85 +5,133 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 12:43:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 16:10:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>Code scanning AI Scan metrics in security overview</title>
-<link>https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</guid>
-<description>GitHub security overview now gives organization and enterprise administrators AI Scan metrics for pull requests, showing generated and resolved findings, remediation rate, affected repositories, trends, and autofix adoption frequency, with separate CodeQL and AI Scan tabs. (GitHub Changelog)</description>
+<title>Gemini 4 Argon for Robotics</title>
+<link>https://deepmind.google/blog/gemini-4-argon-for-robotics</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-for-robotics</guid>
+<description>Gemini 4 Argon for Robotics (Google DeepMind)</description>
 <category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 12:03:17 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 4 Argon: Built to solve your hardest problems</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</guid>
+<description>Gemini 4 Argon: Built to solve your hardest problems (Google AI Blog)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Improved detection for withdrawn Dependabot alerts</title>
+<link>https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</guid>
+<description>Improved detection for withdrawn Dependabot alerts (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 14:03:57 +0000</pubDate>
 </item>
 <item>
 <title>Character.AI files for bankruptcy</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</guid>
-<description>Character.AI filed for Chapter 11 bankruptcy in the US with estimated liabilities of $50 million to $100 million, seeking to sell its assets as Disney leads bidding at $20 million.</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 11:24:08 +0000</pubDate>
+<description>Character.AI files for bankruptcy</description>
+<category>Multi-source buzz</category>
+<pubDate>Tue, 13 Oct 2026 13:58:25 +0000</pubDate>
+</item>
+<item>
+<title>Search and filter for budgets now available</title>
+<link>https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</guid>
+<description>Search and filter for budgets now available (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 12:06:09 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot app for Beginners: How to teach Copilot about your codebase</title>
 <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</guid>
-<description>Four ways to teach GitHub Copilot a codebase: a .github/copilot-instructions.md file, .github/instructions directives, SKILL.md skills in .github/skills, custom agents, and MCP servers like Playwright so Copilot follows project rules. (GitHub AI &amp; ML)</description>
+<description>GitHub Copilot app for Beginners: How to teach Copilot about your codebase (GitHub AI &amp; ML)</description>
 <category>Official update</category>
 <pubDate>Mon, 12 Oct 2026 17:43:59 +0000</pubDate>
 </item>
 <item>
-<title>Users report that Codex CLI 0.157.0 launches a persistent self-updating background daemon by default.</title>
+<title>Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</title>
+<link>https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy</guid>
+<description>Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 12:23:42 +0000</pubDate>
+</item>
+<item>
+<title>用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程</title>
 <link>https://github.com/openai/codex/issues/48195</link>
 <guid isPermaLink="true">https://github.com/openai/codex/issues/48195</guid>
-<description>Codex CLI 0.157.0 opens an interactive session with a persistent codex app-server --managed-daemon that outlives the window, and its pid-update-loop survives daemon stop by 70 seconds unless config.toml sets daemon_auto_start = false.</description>
+<description>用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程</description>
 <category>Multi-source buzz</category>
 <pubDate>Mon, 12 Oct 2026 19:25:54 +0000</pubDate>
 </item>
 <item>
-<title>Client telemetry user attribution and configurable capture</title>
-<link>https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture</guid>
-<description>GitHub enterprise admins can enable telemetry.capture.identity to attribute Copilot activity to individual users, adding three identity attributes to OpenTelemetry exports; the setting is off by default and independent of pseudonymization. (GitHub Changelog)</description>
+<title>Code scanning AI Scan metrics in security overview</title>
+<link>https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</guid>
+<description>Code scanning AI Scan metrics in security overview (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Mon, 12 Oct 2026 22:38:00 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 12:03:17 +0000</pubDate>
 </item>
 <item>
 <title>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
 <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates</link>
 <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates</guid>
-<description>NVIDIA's RTX Spark laptops arrive October 16 with up to 128GB unified memory and 1 petaflop of AI compute, with thousands of PC apps already ready, including Nemotron 3.5 Bolt.</description>
+<description>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 12:00:49 +0000</pubDate>
+</item>
+<item>
+<title>Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...</title>
+<link>https://x.com/ElevenLabs/status/2110037384192774210</link>
+<guid isPermaLink="true">https://x.com/ElevenLabs/status/2110037384192774210</guid>
+<description>Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 15:58:09 +0000</pubDate>
 </item>
 <item>
 <title>Epic Games reportedly pivoting to "AI first" game development model</title>
 <link>https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration</link>
 <guid isPermaLink="true">https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration</guid>
-<description>Epic Games is reportedly moving its $1.5 billion Disney partnership to an AI-first model where Anthropic's Claude writes all code and guides all art, while a Marvel/Star Wars shooter slips from March 2027 indefinitely, with human developers guiding generated content.</description>
+<description>Epic Games reportedly pivoting to "AI first" game development model</description>
 <category>Industry news</category>
 <pubDate>Mon, 12 Oct 2026 20:59:50 +0000</pubDate>
 </item>
 <item>
-<title>700 autonomous balloons fly into the eye of a typhoon: WindBorne wins nearly $50 million U.S. Air Force contract</title>
+<title>October 13, 2026</title>
+<link>https://ai.google.dev/gemini-api/docs/changelog</link>
+<guid isPermaLink="true">https://ai.google.dev/gemini-api/docs/changelog</guid>
+<description>October 13, 2026</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同</title>
 <link>https://www.aibase.com/news/31613</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31613</guid>
-<description>WindBorne Systems' roughly 700 engine-less autonomous balloons drift worldwide to collect atmospheric data for AI weather models, earning a U.S. Air Force contract worth up to $49 million, though only $1.7 million in orders exist so far. (AIbase)</description>
+<description>700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 12:43:00 +0000</pubDate>
 </item>
 <item>
-<title>Meta releases Muse Wonder and Muse Wonder Full agent models</title>
+<title>Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型</title>
 <link>https://research.meta.ai/blog/muse-wonder</link>
 <guid isPermaLink="true">https://research.meta.ai/blog/muse-wonder</guid>
-<description>Meta releases the Muse Wonder model series, claiming SOTA performance on personal and professional agent tasks. Muse Wonder is available through the Meta Model API and Muse Code, with Muse Wonder Full offered to Muse Code subscribers and coming to Muse later.</description>
+<description>Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型</description>
 <category>Industry news</category>
 <pubDate>Mon, 12 Oct 2026 17:33:59 +0000</pubDate>
 </item>
 <item>
-<title>ModelBest open-sources MiniCPM-V 4.7, a 35B-A3B MoE model that runs smoothly on-device with 3GB of memory</title>
+<title>面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行</title>
 <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499456&amp;idx=1&amp;sn=03da7aed4dabbd4fca5c89ce88d4a90a</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499456&amp;idx=1&amp;sn=03da7aed4dabbd4fca5c89ce88d4a90a</guid>
-<description>ModelBest and the OpenBMB community open-sourced MiniCPM-V 4.7 on October 13, a 35B-A3B MoE multimodal model in 1B and 35B-A3B versions that runs on-device with only 3GB memory.</description>
+<description>面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 10:29:21 +0000</pubDate>
 </item>
@@ -91,31 +139,23 @@
 <title>Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
 <link>https://x.com/arena/status/2109706854700044523</link>
 <guid isPermaLink="true">https://x.com/arena/status/2109706854700044523</guid>
-<description>Meta's Muse Wonder has entered Agent Arena for public testing, with the model able to call web search, file system and terminal tools across millions of real long-horizon user tasks before scores are released.</description>
+<description>Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</description>
 <category>Industry news</category>
 <pubDate>Mon, 12 Oct 2026 18:04:45 +0000</pubDate>
 </item>
 <item>
-<title>Push attribution for commits in limited public preview</title>
-<link>https://github.blog/changelog/2026-10-12-push-attribution-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-12-push-attribution-public-preview</guid>
-<description>GitHub now persistently records the authenticated pusher identity for every commit in its UI and API alongside author and committer fields, opening a limited public preview to Enterprise customers with a ruleset rule requiring committer to match pusher. (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 12 Oct 2026 16:30:11 +0000</pubDate>
-</item>
-<item>
-<title>Character.AI files for bankruptcy; Disney swoops in to take over some assets for $20 million</title>
+<title>Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产</title>
 <link>https://www.aibase.com/news/31611</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31611</guid>
-<description>Virtual character chat platform Character.AI filed for US bankruptcy protection and agreed to sell some assets to Disney for $20 million, making Disney the primary bidder in the auction, with the deal due by end-2026. (AIbase)</description>
+<description>Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 12:43:00 +0000</pubDate>
 </item>
 <item>
-<title>Qwen launches AI glasses N1/N1 Pro and its first AI clip-on earbuds, available now</title>
+<title>千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售</title>
 <link>https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb</guid>
-<description>Qwen launches three new hardware products: AI glasses N1, N1 Pro, and AI clip-on earbuds, available now on Taobao, Tmall, JD.com, Douyin and other platforms, with glasses starting at 2,218 yuan and earbuds at 1,099 yuan.</description>
+<description>千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 08:06:57 +0000</pubDate>
 </item>
@@ -123,49 +163,9 @@
 <title>Building Long-Running Agents with ScaleDown and Deep Agents</title>
 <link>https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents</link>
 <guid isPermaLink="true">https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents</guid>
-<description>LangChain released langchain-scaledown, bringing ScaleDown's constrained decoding models to LangSmith LLM Gateway so Deep Agents middleware can summarize old history, compress tool results and extract data, claiming 200x faster and 467x cheaper on narrow tasks.</description>
+<description>Building Long-Running Agents with ScaleDown and Deep Agents</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 11:56:53 +0000</pubDate>
-</item>
-<item>
-<title>Cursor is now part of The X Subscription.</title>
-<link>https://x.com/cursor_ai/status/2109779605699879146</link>
-<guid isPermaLink="true">https://x.com/cursor_ai/status/2109779605699879146</guid>
-<description>Cursor is being folded into The X Subscription; existing Cursor subscribers can keep their current plan or switch to the new subscription.</description>
-<category>Industry news</category>
-<pubDate>Mon, 12 Oct 2026 22:53:50 +0000</pubDate>
-</item>
-<item>
-<title>Muse Wonder</title>
-<link>https://research.meta.ai/blog/muse-wonder</link>
-<guid isPermaLink="true">https://research.meta.ai/blog/muse-wonder</guid>
-<description>Meta's Muse Wonder and Muse Wonder Full models, trained in a gigawatt-scale Prometheus data center, claim SOTA on personal, professional agent and coding benchmarks using Active Memory and Active Focus, available via the Meta Model API and Muse Code for subscribers.</description>
-<category>Industry news</category>
-<pubDate>Mon, 12 Oct 2026 17:33:59 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic's Claude AI submitted false murder tip to Philadelphia police</title>
-<link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police</link>
-<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police</guid>
-<description>Anthropic's Claude Haiku 4.5 filed a false murder tip to Philadelphia police's cold-case form on July 18, but spam filters hid it; Anthropic learned September 28 and told police October 8, a delay officers criticized.</description>
-<category>Industry news</category>
-<pubDate>Mon, 12 Oct 2026 18:21:36 +0000</pubDate>
-</item>
-<item>
-<title>Epic pushes Disney shooter toward "AI-first": no more hand-written code, 2027 release indefinitely delayed</title>
-<link>https://www.aibase.com/news/31607</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31607</guid>
-<description>Bloomberg reports Epic Games wants its Disney co-developed shooter, blending Marvel and Star Wars IPs, to shift fully to AI development with Anthropic's Claude writing code while humans only supervise, pushing the planned March 2027 launch indefinitely. (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 12:43:00 +0000</pubDate>
-</item>
-<item>
-<title>Anonymous organization-level registries for Dependabot</title>
-<link>https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot</guid>
-<description>GitHub added Anonymous authentication to Dependabot's organization-level private registries for internal mirrors needing no credentials, but existing registries can't change auth methods and must be deleted and recreated; it's live on github.com and ships with GitHub Enterprise Server 3.24. (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 12 Oct 2026 14:04:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
