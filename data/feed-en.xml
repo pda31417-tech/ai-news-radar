@@ -5,31 +5,31 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 12:02:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 15:50:02 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>The EU’s next chapter in AI is agentic</title>
-<link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
-<guid isPermaLink="true">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
-<description>The EU’s next chapter in AI is agentic (OpenAI News)</description>
+<title>GitHub Actions workflow lockfiles in public preview</title>
+<link>https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview</guid>
+<description>GitHub Actions workflow lockfiles in public preview (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Wed, 14 Oct 2026 13:49:15 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Argon in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</guid>
-<description>Gemini 4 Argon in GitHub Copilot (GitHub Changelog)</description>
+<title>How Third Moment Research runs 10,000 agents for 36+ hours</title>
+<link>https://openai.com/index/third-moment-research</link>
+<guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
+<description>How Third Moment Research runs 10,000 agents for 36+ hours (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 18:39:56 +0000</pubDate>
+<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
-<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
-<guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
-<description>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection (Google DeepMind)</description>
+<title>Gemini 4 Argon for Robotics</title>
+<link>https://deepmind.google/blog/gemini-4-argon-for-robotics</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-for-robotics</guid>
+<description>Gemini 4 Argon for Robotics (Google DeepMind)</description>
 <category>Official update</category>
-<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
 </item>
 <item>
 <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
@@ -56,20 +56,28 @@
 <pubDate>Tue, 13 Oct 2026 17:56:33 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Argon for Robotics</title>
-<link>https://deepmind.google/blog/gemini-4-argon-for-robotics</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-for-robotics</guid>
-<description>Gemini 4 Argon for Robotics (Google DeepMind)</description>
+<title>The EU’s next chapter in AI is agentic</title>
+<link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
+<guid isPermaLink="true">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
+<description>The EU’s next chapter in AI is agentic (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub App improvements for least privilege and management</title>
-<link>https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</guid>
-<description>GitHub App improvements for least privilege and management (GitHub Changelog)</description>
+<title>Gemini 4 Argon in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</guid>
+<description>Gemini 4 Argon in GitHub Copilot (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 23:17:55 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 18:39:56 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
+<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
+<guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
+<description>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
 </item>
 <item>
 <title>GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.</title>
@@ -96,6 +104,14 @@
 <pubDate>Tue, 13 Oct 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
+<title>From building your app to growing it: Lovable now helps you find customers</title>
+<link>https://lovable.dev/blog/introducing-growth-tools</link>
+<guid isPermaLink="true">https://lovable.dev/blog/introducing-growth-tools</guid>
+<description>From building your app to growing it: Lovable now helps you find customers (Lovable Blog)</description>
+<category>Industry news</category>
+<pubDate>Wed, 14 Oct 2026 12:50:00 +0000</pubDate>
+</item>
+<item>
 <title>Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work</title>
 <link>https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work</link>
 <guid isPermaLink="true">https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work</guid>
@@ -120,6 +136,14 @@
 <pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
 </item>
 <item>
+<title>GitHub App improvements for least privilege and management</title>
+<link>https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</guid>
+<description>GitHub App improvements for least privilege and management (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 23:17:55 +0000</pubDate>
+</item>
+<item>
 <title>Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</title>
 <link>https://x.com/Khazix0918/status/2110174495420064055</link>
 <guid isPermaLink="true">https://x.com/Khazix0918/status/2110174495420064055</guid>
@@ -128,12 +152,12 @@
 <pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
 </item>
 <item>
-<title>Secret scanning blocks Anthropic keys by default, adds Salesforce</title>
-<link>https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</guid>
-<description>Secret scanning blocks Anthropic keys by default, adds Salesforce (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 16:12:36 +0000</pubDate>
+<title>Researchers improve weather forecasts looking two to six weeks out</title>
+<link>https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</link>
+<guid isPermaLink="true">https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</guid>
+<description>Researchers improve weather forecasts looking two to six weeks out</description>
+<category>Industry news</category>
+<pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GPT 5.6 Sol btw</title>
@@ -142,30 +166,6 @@
 <description>GPT 5.6 Sol btw</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 19:15:03 +0000</pubDate>
-</item>
-<item>
-<title>Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</title>
-<link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</link>
-<guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</guid>
-<description>Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
-</item>
-<item>
-<title>Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</title>
-<link>https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy</guid>
-<description>Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 12:23:42 +0000</pubDate>
-</item>
-<item>
-<title>Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!</title>
-<link>https://x.com/arena/status/2110120205464846828</link>
-<guid isPermaLink="true">https://x.com/arena/status/2110120205464846828</guid>
-<description>Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 21:27:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
