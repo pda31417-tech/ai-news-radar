@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:55:55.067682Z",
+  "generated_at": "2026-10-14T06:13:17.654678Z",
   "date": "2026-10-14",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-14T01:55:12.995791Z"
+      "observed_at": "2026-10-14T06:12:33.839358Z"
     },
     {
-      "id": "project_b81782ba4b4f",
-      "project_name": "Kai",
-      "url": "https://www.producthunt.com/products/hirekai",
-      "summary": "Autonomous assistant designed to handle meetings and email",
+      "id": "project_2844208d7fb4",
+      "project_name": "Articos MCP",
+      "url": "https://www.producthunt.com/products/articos",
+      "summary": "See how simulated buyers react, right in your agent",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "Kai 是能自主处理会议与邮件的助手，若想减少这类日常事务消耗，值得打开体验一下。",
-      "recommend_reason_en": "Kai is an autonomous assistant designed to handle meetings and email, making it worth opening if you want to see how far automation can go in everyday coordination work.",
-      "published_at": "2026-09-23T16:20:03Z",
-      "updated_at": "2026-10-14T01:50:43Z",
+      "recommend_reason_zh": "体验它主打的「See how simulated buyers react, right in your agent」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"See how simulated buyers react, right in your agent\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-02T11:57:48Z",
+      "updated_at": "2026-10-14T06:11:37Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-14T01:55:42.967631Z"
+      "observed_at": "2026-10-14T06:13:06.927093Z"
     },
     {
       "id": "project_14f321c49518",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-14T01:55:12.995791Z"
+      "observed_at": "2026-10-14T06:12:33.839358Z"
     },
     {
-      "id": "project_2ad4c6f33e71",
-      "project_name": "The Drive AI",
-      "url": "https://www.producthunt.com/products/the-drive-ai-2",
-      "summary": "The AI agent that does the work on your files",
+      "id": "project_5737e2955921",
+      "project_name": "HarnessHive",
+      "url": "https://www.producthunt.com/products/harnesshive",
+      "summary": "AI-Native, Simple & Collaborative Wire Harness Design",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The AI agent that does the work on your files」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The AI agent that does the work on your files\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-13T05:39:15Z",
-      "updated_at": "2026-10-14T01:46:14Z",
+      "recommend_reason_zh": "体验它主打的「AI-Native, Simple & Collaborative Wire Harness Design」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI-Native, Simple & Collaborative Wire Harness Design\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-13T02:17:03Z",
+      "updated_at": "2026-10-14T06:02:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-14T01:55:42.967631Z"
+      "observed_at": "2026-10-14T06:13:06.927093Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 154,
+      "duration_ms": 1610,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 117,
+      "duration_ms": 152,
       "error": null
     }
   ]
