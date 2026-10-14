@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:53:52.489920Z",
+  "generated_at": "2026-10-14T01:55:55.067682Z",
   "date": "2026-10-14",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-13T21:52:50.427406Z"
+      "observed_at": "2026-10-14T01:55:12.995791Z"
     },
     {
-      "id": "project_fb94f48e0237",
-      "project_name": "MentionBird",
-      "url": "https://www.producthunt.com/products/mentionbird",
-      "summary": "Ahrefs for AI Search",
+      "id": "project_b81782ba4b4f",
+      "project_name": "Kai",
+      "url": "https://www.producthunt.com/products/hirekai",
+      "summary": "Autonomous assistant designed to handle meetings and email",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "MentionBird 把 Ahrefs 式分析思路带到 AI 搜索，适合想体验 AI 搜索分析工具的人打开了解。",
-      "recommend_reason_en": "MentionBird is pitched as Ahrefs for AI Search, pointing to monitoring brand visibility across AI search results, and is worth opening to judge whether that fits your needs.",
-      "published_at": "2026-10-06T06:13:08Z",
-      "updated_at": "2026-10-13T21:52:22Z",
+      "recommend_reason_zh": "Kai 是能自主处理会议与邮件的助手，若想减少这类日常事务消耗，值得打开体验一下。",
+      "recommend_reason_en": "Kai is an autonomous assistant designed to handle meetings and email, making it worth opening if you want to see how far automation can go in everyday coordination work.",
+      "published_at": "2026-09-23T16:20:03Z",
+      "updated_at": "2026-10-14T01:50:43Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-13T21:53:39.768641Z"
+      "observed_at": "2026-10-14T01:55:42.967631Z"
     },
     {
       "id": "project_14f321c49518",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-13T21:52:50.427406Z"
+      "observed_at": "2026-10-14T01:55:12.995791Z"
     },
     {
-      "id": "project_b81782ba4b4f",
-      "project_name": "Kai",
-      "url": "https://www.producthunt.com/products/hirekai",
-      "summary": "Autonomous assistant designed to handle meetings and email",
+      "id": "project_2ad4c6f33e71",
+      "project_name": "The Drive AI",
+      "url": "https://www.producthunt.com/products/the-drive-ai-2",
+      "summary": "The AI agent that does the work on your files",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "Kai 是能自主处理会议与邮件的助手，若想减少这类日常事务消耗，值得打开体验一下。",
-      "recommend_reason_en": "Kai is an autonomous assistant designed to handle meetings and email, making it worth opening if you want to see how far automation can go in everyday coordination work.",
-      "published_at": "2026-09-23T16:20:03Z",
-      "updated_at": "2026-10-13T21:52:22Z",
+      "recommend_reason_zh": "体验它主打的「The AI agent that does the work on your files」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The AI agent that does the work on your files\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-13T05:39:15Z",
+      "updated_at": "2026-10-14T01:46:14Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-13T21:53:39.768641Z"
+      "observed_at": "2026-10-14T01:55:42.967631Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 1135,
+      "duration_ms": 154,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 159,
+      "duration_ms": 117,
       "error": null
     }
   ]

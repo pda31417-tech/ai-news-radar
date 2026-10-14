@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:52:50.427406Z",
+  "generated_at": "2026-10-14T01:55:12.995791Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8518,
-      "importance": 0.8518,
-      "importance_score": 0.8518,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9546,
+        "recency": 0.9005,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8494,
-      "importance": 0.8494,
-      "importance_score": 0.8494,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.919,
+        "recency": 0.8669,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8385,
+      "importance": 0.8385,
+      "importance_score": 0.8385,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9332,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9186,
+        "recency": 0.8665,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9447,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.867,
+        "recency": 0.8179,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
+      }
+    },
+    {
+      "story_id": "story_624c9e1c6e13",
+      "title": "GitHub App improvements for least privilege and management",
+      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "primary_url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e54186c69698777285914474fa2a37da8baf9f91",
+          "title": "GitHub App improvements for least privilege and management",
+          "title_zh": null,
+          "title_en": "GitHub App improvements for least privilege and management",
+          "title_original": "GitHub App improvements for least privilege and management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T23:17:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e54186c69698777285914474fa2a37da8baf9f91",
+          "title": "GitHub App improvements for least privilege and management",
+          "title_zh": null,
+          "title_en": "GitHub App improvements for least privilege and management",
+          "title_original": "GitHub App improvements for least privilege and management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T23:17:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9628,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T23:17:55Z",
+      "latest_at": "2026-10-13T23:17:55Z",
+      "primary_item": {
+        "id": "e54186c69698777285914474fa2a37da8baf9f91",
+        "title": "GitHub App improvements for least privilege and management",
+        "title_zh": null,
+        "title_en": "GitHub App improvements for least privilege and management",
+        "title_original": "GitHub App improvements for least privilege and management",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -574,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9693,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -727,15 +814,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8489,
+        "recency": 0.8008,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -762,94 +849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
-      }
-    },
-    {
-      "story_id": "story_d010181126b6",
-      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-      "primary_url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
-          "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-          "title_zh": null,
-          "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-          "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T16:12:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
-          "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-          "title_zh": null,
-          "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-          "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T16:12:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9214,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T16:12:36Z",
-      "latest_at": "2026-10-13T16:12:36Z",
-      "primary_item": {
-        "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
-        "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-        "title_zh": null,
-        "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-        "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -901,15 +901,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9456,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,7 +935,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -987,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9748,
+        "recency": 0.9196,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,7 +1021,265 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
+      }
+    },
+    {
+      "story_id": "story_37d5124eb4e9",
+      "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c75dc136f0bb0fe677fb53b0615fdf939a5acb66",
+          "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "title_zh": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "title_en": null,
+          "title_original": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T22:56:51Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "c75dc136f0bb0fe677fb53b0615fdf939a5acb66",
+          "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "title_zh": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "title_en": null,
+          "title_original": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T22:56:51Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.958,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T22:56:51Z",
+      "latest_at": "2026-10-13T22:56:51Z",
+      "primary_item": {
+        "id": "c75dc136f0bb0fe677fb53b0615fdf939a5acb66",
+        "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+        "title_zh": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+        "title_en": null,
+        "title_original": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+        "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T02:23:16.397976Z"
+      }
+    },
+    {
+      "story_id": "story_c910ad326bd2",
+      "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+      "url": "https://x.com/Khazix0918/status/2110174495420064055",
+      "primary_url": "https://x.com/Khazix0918/status/2110174495420064055",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
+          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "title_zh": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "title_en": null,
+          "title_original": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2110174495420064055",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T01:02:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
+          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "title_zh": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "title_en": null,
+          "title_original": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2110174495420064055",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T01:02:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9875,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T01:02:59Z",
+      "latest_at": "2026-10-14T01:02:59Z",
+      "primary_item": {
+        "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
+        "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+        "title_zh": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+        "title_en": null,
+        "title_original": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+        "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Khazix0918/status/2110174495420064055",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T02:23:16.397976Z"
+      }
+    },
+    {
+      "story_id": "story_e5c405f2adfd",
+      "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析 / Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+      "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+      "primary_url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+      "source": "Johann Rehberger / Embrace The Red（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f345766592a05d988700c2172da2ed75194f4f38",
+          "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析 / Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+          "title_zh": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+          "title_en": "Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+          "title_original": "Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+          "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
+          "recommend_reason_zh": null,
+          "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+          "source": "Johann Rehberger / Embrace The Red（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T22:00:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Johann Rehberger / Embrace The Red（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f345766592a05d988700c2172da2ed75194f4f38",
+          "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析 / Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+          "title_zh": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+          "title_en": "Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+          "title_original": "Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+          "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
+          "recommend_reason_zh": null,
+          "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+          "source": "Johann Rehberger / Embrace The Red（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T22:00:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9451,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T22:00:40Z",
+      "latest_at": "2026-10-13T22:00:40Z",
+      "primary_item": {
+        "id": "f345766592a05d988700c2172da2ed75194f4f38",
+        "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析 / Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+        "title_zh": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+        "title_en": "Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+        "title_original": "Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+        "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
+        "recommend_reason_zh": null,
+        "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+        "source": "Johann Rehberger / Embrace The Red（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -1073,15 +1331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.9082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1107,7 +1365,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
+      }
+    },
+    {
+      "story_id": "story_d010181126b6",
+      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "primary_url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+          "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_zh": null,
+          "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:12:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+          "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_zh": null,
+          "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:12:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8692,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:12:36Z",
+      "latest_at": "2026-10-13T16:12:36Z",
+      "primary_item": {
+        "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+        "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+        "title_zh": null,
+        "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+        "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T02:23:16.397976Z"
+      }
+    },
+    {
+      "story_id": "story_75de6036cf42",
+      "title": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+      "url": "https://www.aibase.com/news/31623",
+      "primary_url": "https://www.aibase.com/news/31623",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5e14b3e820df7a442468912f55a185cd12a935c3",
+          "title": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+          "title_zh": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+          "title_en": null,
+          "title_original": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31623",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-14T01:55:12.995791Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5e14b3e820df7a442468912f55a185cd12a935c3",
+          "title": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+          "title_zh": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+          "title_en": null,
+          "title_original": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31623",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-14T01:55:12.995791Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T01:55:12.995791Z",
+      "latest_at": "2026-10-14T01:55:12.995791Z",
+      "primary_item": {
+        "id": "5e14b3e820df7a442468912f55a185cd12a935c3",
+        "title": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+        "title_zh": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+        "title_en": null,
+        "title_original": "10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再\"串戏\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31623",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -1159,15 +1590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.872,
+        "recency": 0.8226,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,94 +1624,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
-      }
-    },
-    {
-      "story_id": "story_64ef9b1ab8ef",
-      "title": "Audit GitHub Code Quality finding dismissals and reopenings",
-      "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
-      "primary_url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aa486656083f121a3451399a829d6562cea51e70",
-          "title": "Audit GitHub Code Quality finding dismissals and reopenings",
-          "title_zh": null,
-          "title_en": "Audit GitHub Code Quality finding dismissals and reopenings",
-          "title_original": "Audit GitHub Code Quality finding dismissals and reopenings",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T17:58:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "aa486656083f121a3451399a829d6562cea51e70",
-          "title": "Audit GitHub Code Quality finding dismissals and reopenings",
-          "title_zh": null,
-          "title_en": "Audit GitHub Code Quality finding dismissals and reopenings",
-          "title_original": "Audit GitHub Code Quality finding dismissals and reopenings",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T17:58:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9452,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T17:58:36Z",
-      "latest_at": "2026-10-13T17:58:36Z",
-      "primary_item": {
-        "id": "aa486656083f121a3451399a829d6562cea51e70",
-        "title": "Audit GitHub Code Quality finding dismissals and reopenings",
-        "title_zh": null,
-        "title_en": "Audit GitHub Code Quality finding dismissals and reopenings",
-        "title_original": "Audit GitHub Code Quality finding dismissals and reopenings",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -1332,15 +1676,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9939,
+        "recency": 0.9375,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1366,93 +1710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
-      }
-    },
-    {
-      "story_id": "story_552c975a2127",
-      "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-      "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
-      "primary_url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a98c60eeae09a755ca52fc3665ec6c25f625b473",
-          "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-          "title_zh": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
-          "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-          "title_original": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-          "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a98c60eeae09a755ca52fc3665ec6c25f625b473",
-          "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-          "title_zh": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
-          "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-          "title_original": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-          "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7291,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T00:00:00Z",
-      "latest_at": "2026-10-13T00:00:00Z",
-      "primary_item": {
-        "id": "a98c60eeae09a755ca52fc3665ec6c25f625b473",
-        "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-        "title_zh": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
-        "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-        "title_original": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-        "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     },
     {
@@ -1504,15 +1762,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,264 +1796,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
-      }
-    },
-    {
-      "story_id": "story_8033d9c7963f",
-      "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市 / All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8d5c145545a52ba047c62b0d6771e4983d325f6b",
-          "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市 / All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-          "title_zh": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市",
-          "title_en": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-          "title_original": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-          "summary": "NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T12:00:49Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8d5c145545a52ba047c62b0d6771e4983d325f6b",
-          "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市 / All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-          "title_zh": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市",
-          "title_en": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-          "title_original": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-          "summary": "NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T12:00:49Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8672,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:00:49Z",
-      "latest_at": "2026-10-13T12:00:49Z",
-      "primary_item": {
-        "id": "8d5c145545a52ba047c62b0d6771e4983d325f6b",
-        "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市 / All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-        "title_zh": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市",
-        "title_en": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-        "title_original": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-        "summary": "NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
-      }
-    },
-    {
-      "story_id": "story_68cb7c4dc20a",
-      "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-      "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-      "primary_url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6e513cec15bb932c3321b6ed1eeab686b21e7bd0",
-          "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-          "title_zh": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-          "title_en": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-          "title_original": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-          "summary": "OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T19:48:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Newsroom (@OpenAINewsroom)"
-      ],
-      "items": [
-        {
-          "id": "6e513cec15bb932c3321b6ed1eeab686b21e7bd0",
-          "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-          "title_zh": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-          "title_en": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-          "title_original": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-          "summary": "OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T19:48:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9706,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T19:48:42Z",
-      "latest_at": "2026-10-13T19:48:42Z",
-      "primary_item": {
-        "id": "6e513cec15bb932c3321b6ed1eeab686b21e7bd0",
-        "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-        "title_zh": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-        "title_en": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-        "title_original": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
-        "summary": "OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
-      }
-    },
-    {
-      "story_id": "story_c4adc0d9b7a8",
-      "title": "Gemini 4 Argon (gemini-4-argon) 正式发布 GA / October 13, 2026",
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "primary_url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "source": "Gemini API：更新日志（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "688dcf7e221497e58f797bcdcabc8e461f6ce0c8",
-          "title": "Gemini 4 Argon (gemini-4-argon) 正式发布 GA / October 13, 2026",
-          "title_zh": "Gemini 4 Argon (gemini-4-argon) 正式发布 GA",
-          "title_en": "October 13, 2026",
-          "title_original": "October 13, 2026",
-          "summary": "Google 发布 Gemini 4 Argon（gemini-4-argon）并正式进入 GA 阶段，定位为其最强模型，面向复杂编码、智能体、数学和科学任务。API 变化、定价与迁移指引见 What's new in Gemini 4 Argon 文档。",
-          "recommend_reason_zh": null,
-          "url": "https://ai.google.dev/gemini-api/docs/changelog",
-          "source": "Gemini API：更新日志（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gemini API：更新日志（网页）"
-      ],
-      "items": [
-        {
-          "id": "688dcf7e221497e58f797bcdcabc8e461f6ce0c8",
-          "title": "Gemini 4 Argon (gemini-4-argon) 正式发布 GA / October 13, 2026",
-          "title_zh": "Gemini 4 Argon (gemini-4-argon) 正式发布 GA",
-          "title_en": "October 13, 2026",
-          "title_original": "October 13, 2026",
-          "summary": "Google 发布 Gemini 4 Argon（gemini-4-argon）并正式进入 GA 阶段，定位为其最强模型，面向复杂编码、智能体、数学和科学任务。API 变化、定价与迁移指引见 What's new in Gemini 4 Argon 文档。",
-          "recommend_reason_zh": null,
-          "url": "https://ai.google.dev/gemini-api/docs/changelog",
-          "source": "Gemini API：更新日志（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7291,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T00:00:00Z",
-      "latest_at": "2026-10-13T00:00:00Z",
-      "primary_item": {
-        "id": "688dcf7e221497e58f797bcdcabc8e461f6ce0c8",
-        "title": "Gemini 4 Argon (gemini-4-argon) 正式发布 GA / October 13, 2026",
-        "title_zh": "Gemini 4 Argon (gemini-4-argon) 正式发布 GA",
-        "title_en": "October 13, 2026",
-        "title_original": "October 13, 2026",
-        "summary": "Google 发布 Gemini 4 Argon（gemini-4-argon）并正式进入 GA 阶段，定位为其最强模型，面向复杂编码、智能体、数学和科学任务。API 变化、定价与迁移指引见 What's new in Gemini 4 Argon 文档。",
-        "recommend_reason_zh": null,
-        "url": "https://ai.google.dev/gemini-api/docs/changelog",
-        "source": "Gemini API：更新日志（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T22:30:25.076161Z"
+        "scored_at": "2026-10-14T02:23:16.397976Z"
       }
     }
   ]

@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 21:52:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:55:12 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Gemini 4 Argon in GitHub Copilot</title>
@@ -56,6 +56,14 @@
 <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
+<title>GitHub App improvements for least privilege and management</title>
+<link>https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</guid>
+<description>GitHub App improvements for least privilege and management (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 23:17:55 +0000</pubDate>
+</item>
+<item>
 <title>Developing Gemini 4 Argon responsibly and safely</title>
 <link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</link>
 <guid isPermaLink="true">https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</guid>
@@ -70,14 +78,6 @@
 <description>Character.AI files for bankruptcy</description>
 <category>Multi-source buzz</category>
 <pubDate>Tue, 13 Oct 2026 13:58:25 +0000</pubDate>
-</item>
-<item>
-<title>Secret scanning blocks Anthropic keys by default, adds Salesforce</title>
-<link>https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</guid>
-<description>Secret scanning blocks Anthropic keys by default, adds Salesforce (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 16:12:36 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...</title>
@@ -96,12 +96,52 @@
 <pubDate>Tue, 13 Oct 2026 20:06:53 +0000</pubDate>
 </item>
 <item>
+<title>实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e</guid>
+<description>实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 22:56:51 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</title>
+<link>https://x.com/Khazix0918/status/2110174495420064055</link>
+<guid isPermaLink="true">https://x.com/Khazix0918/status/2110174495420064055</guid>
+<description>Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</description>
+<category>Industry news</category>
+<pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
+</item>
+<item>
+<title>Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</title>
+<link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</link>
+<guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</guid>
+<description>Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</description>
+<category>Industry news</category>
+<pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
+</item>
+<item>
 <title>GPT 5.6 Sol btw</title>
 <link>https://x.com/reach_vb/status/2110086935733833893</link>
 <guid isPermaLink="true">https://x.com/reach_vb/status/2110086935733833893</guid>
 <description>GPT 5.6 Sol btw</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 19:15:03 +0000</pubDate>
+</item>
+<item>
+<title>Secret scanning blocks Anthropic keys by default, adds Salesforce</title>
+<link>https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce</guid>
+<description>Secret scanning blocks Anthropic keys by default, adds Salesforce (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 13 Oct 2026 16:12:36 +0000</pubDate>
+</item>
+<item>
+<title>10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再"串戏"</title>
+<link>https://www.aibase.com/news/31623</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31623</guid>
+<description>10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再"串戏" (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 14 Oct 2026 01:55:12 +0000</pubDate>
 </item>
 <item>
 <title>Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</title>
@@ -112,14 +152,6 @@
 <pubDate>Tue, 13 Oct 2026 12:23:42 +0000</pubDate>
 </item>
 <item>
-<title>Audit GitHub Code Quality finding dismissals and reopenings</title>
-<link>https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings</guid>
-<description>Audit GitHub Code Quality finding dismissals and reopenings (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 17:58:36 +0000</pubDate>
-</item>
-<item>
 <title>Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!</title>
 <link>https://x.com/arena/status/2110120205464846828</link>
 <guid isPermaLink="true">https://x.com/arena/status/2110120205464846828</guid>
@@ -128,44 +160,12 @@
 <pubDate>Tue, 13 Oct 2026 21:27:15 +0000</pubDate>
 </item>
 <item>
-<title>Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon</title>
-<link>https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon</link>
-<guid isPermaLink="true">https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon</guid>
-<description>Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon</description>
-<category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</title>
 <link>https://x.com/OpenRouter/status/2110044453977403412</link>
 <guid isPermaLink="true">https://x.com/OpenRouter/status/2110044453977403412</guid>
 <description>Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</description>
 <category>Industry news</category>
 <pubDate>Tue, 13 Oct 2026 16:26:15 +0000</pubDate>
-</item>
-<item>
-<title>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
-<link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates</guid>
-<description>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 12:00:49 +0000</pubDate>
-</item>
-<item>
-<title>We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...</title>
-<link>https://x.com/OpenAINewsroom/status/2110095403198849132</link>
-<guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2110095403198849132</guid>
-<description>We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 19:48:42 +0000</pubDate>
-</item>
-<item>
-<title>October 13, 2026</title>
-<link>https://ai.google.dev/gemini-api/docs/changelog</link>
-<guid isPermaLink="true">https://ai.google.dev/gemini-api/docs/changelog</guid>
-<description>October 13, 2026</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
