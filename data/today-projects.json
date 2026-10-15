@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:58:20.973637Z",
+  "generated_at": "2026-10-15T01:30:44.966725Z",
   "date": "2026-10-15",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-14T23:57:42.075829Z"
+      "observed_at": "2026-10-15T01:29:43.796304Z"
     },
     {
-      "id": "project_fea16ab2fe12",
-      "project_name": "CSuite",
-      "url": "https://www.producthunt.com/products/csuite",
-      "summary": "All-in-one suite for AI content creation, fully private.",
+      "id": "project_03ee4e5de812",
+      "project_name": "Retriever AI",
+      "url": "https://www.producthunt.com/products/rtrvr-ai",
+      "summary": "Free AI browser agent: find leads, reach out, apply to jobs",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「All-in-one suite for AI content creation, fully private」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"All-in-one suite for AI content creation, fully private\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-08-19T14:02:33Z",
-      "updated_at": "2026-10-14T23:50:14Z",
+      "recommend_reason_zh": "体验它主打的「Free AI browser agent: find leads, reach out, apply to jobs」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Free AI browser agent: find leads, reach out, apply to jobs\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-08T10:45:33Z",
+      "updated_at": "2026-10-15T01:24:06Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-14T23:58:09.314142Z"
+      "observed_at": "2026-10-15T01:30:32.862672Z"
     },
     {
       "id": "project_36917ef32b44",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-14T23:57:42.075829Z"
+      "observed_at": "2026-10-15T01:29:43.796304Z"
     },
     {
-      "id": "project_d7c52b93438e",
-      "project_name": "FamRelay",
-      "url": "https://www.producthunt.com/products/famrelay",
-      "summary": "Share facts between AI assistants — only what you approve",
+      "id": "project_847ce9252816",
+      "project_name": "Microsoft Maia 300",
+      "url": "https://www.producthunt.com/products/microsoft-maia-300",
+      "summary": "Microsoft’s own AI chip, headed to multi-gigawatts",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Share facts between AI assistants — only what you approve」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Share facts between AI assistants — only what you approve\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-07T02:03:23Z",
-      "updated_at": "2026-10-14T23:02:35Z",
+      "recommend_reason_zh": "体验它主打的「Microsoft’s own AI chip, headed to multi-gigawatts」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Microsoft’s own AI chip, headed to multi-gigawatts\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T13:33:08Z",
+      "updated_at": "2026-10-15T01:19:56Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-14T23:58:09.314142Z"
+      "observed_at": "2026-10-15T01:30:32.862672Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1081,
+      "duration_ms": 1400,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 127,
+      "duration_ms": 113,
       "error": null
     }
   ]
