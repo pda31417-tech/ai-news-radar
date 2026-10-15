@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 20:44:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 23:57:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
@@ -16,20 +16,20 @@
 <pubDate>Wed, 14 Oct 2026 16:12:42 +0000</pubDate>
 </item>
 <item>
+<title>HydraFusion updates and new Max option</title>
+<link>https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option</guid>
+<description>HydraFusion updates and new Max option (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 14 Oct 2026 20:01:35 +0000</pubDate>
+</item>
+<item>
 <title>Amp puts AI agents to work beyond code with OpenAI models</title>
 <link>https://openai.com/index/amp-beyond-coding</link>
 <guid isPermaLink="true">https://openai.com/index/amp-beyond-coding</guid>
 <description>Amp puts AI agents to work beyond code with OpenAI models (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Actions workflow lockfiles in public preview</title>
-<link>https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview</guid>
-<description>GitHub Actions workflow lockfiles in public preview (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Wed, 14 Oct 2026 13:49:15 +0000</pubDate>
 </item>
 <item>
 <title>GPT-5.5 retirement in Codex</title>
@@ -56,6 +56,22 @@
 <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Actions workflow lockfiles in public preview</title>
+<link>https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview</guid>
+<description>GitHub Actions workflow lockfiles in public preview (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 14 Oct 2026 13:49:15 +0000</pubDate>
+</item>
+<item>
+<title>欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%</title>
+<link>https://www.ithome.com/1/013/154.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/013/154.htm</guid>
+<description>欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%</description>
+<category>Industry news</category>
+<pubDate>Wed, 14 Oct 2026 23:13:18 +0000</pubDate>
+</item>
+<item>
 <title>Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</title>
 <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
 <guid isPermaLink="true">https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</guid>
@@ -72,12 +88,12 @@
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub App improvements for least privilege and management</title>
-<link>https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</guid>
-<description>GitHub App improvements for least privilege and management (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 13 Oct 2026 23:17:55 +0000</pubDate>
+<title>Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...</title>
+<link>https://x.com/GeminiApp/status/2110491358498865638</link>
+<guid isPermaLink="true">https://x.com/GeminiApp/status/2110491358498865638</guid>
+<description>Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...</description>
+<category>Industry news</category>
+<pubDate>Wed, 14 Oct 2026 22:02:05 +0000</pubDate>
 </item>
 <item>
 <title>GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.</title>
@@ -88,12 +104,28 @@
 <pubDate>Wed, 14 Oct 2026 02:58:37 +0000</pubDate>
 </item>
 <item>
-<title>How Third Moment Research runs 10,000 agents for 36+ hours</title>
-<link>https://openai.com/index/third-moment-research</link>
-<guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
-<description>How Third Moment Research runs 10,000 agents for 36+ hours (OpenAI News)</description>
+<title>How Block is building AI-powered security with OpenAI technology</title>
+<link>https://openai.com/index/block-ai-powered-security</link>
+<guid isPermaLink="true">https://openai.com/index/block-ai-powered-security</guid>
+<description>How Block is building AI-powered security with OpenAI technology (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>It does mean that Claude continues from a summary instead of your full context though. You can turn it off with "idleCompaction": false i...</title>
+<link>https://x.com/lydiahallie/status/2110484841926152622</link>
+<guid isPermaLink="true">https://x.com/lydiahallie/status/2110484841926152622</guid>
+<description>It does mean that Claude continues from a summary instead of your full context though. You can turn it off with "idleCompaction": false i...</description>
+<category>Industry news</category>
+<pubDate>Wed, 14 Oct 2026 21:36:11 +0000</pubDate>
+</item>
+<item>
+<title>Grok Voice 3.0 is now the world’s leading conversational voice model</title>
+<link>https://x.com/elonmusk/status/2110483960312799675</link>
+<guid isPermaLink="true">https://x.com/elonmusk/status/2110483960312799675</guid>
+<description>Grok Voice 3.0 is now the world’s leading conversational voice model</description>
+<category>Industry news</category>
+<pubDate>Wed, 14 Oct 2026 21:32:41 +0000</pubDate>
 </item>
 <item>
 <title>Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...</title>
@@ -128,44 +160,12 @@
 <pubDate>Wed, 14 Oct 2026 12:50:00 +0000</pubDate>
 </item>
 <item>
-<title>实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e</guid>
-<description>实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 22:56:51 +0000</pubDate>
-</item>
-<item>
 <title>Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</title>
 <link>https://x.com/Khazix0918/status/2110174495420064055</link>
 <guid isPermaLink="true">https://x.com/Khazix0918/status/2110174495420064055</guid>
 <description>Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
-</item>
-<item>
-<title>Researchers improve weather forecasts looking two to six weeks out</title>
-<link>https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</link>
-<guid isPermaLink="true">https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</guid>
-<description>Researchers improve weather forecasts looking two to six weeks out</description>
-<category>Industry news</category>
-<pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context</title>
-<link>https://www.langchain.com/blog/context-engineering-deep-agents-remember</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/context-engineering-deep-agents-remember</guid>
-<description>Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context</description>
-<category>Industry news</category>
-<pubDate>Wed, 14 Oct 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</title>
-<link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</link>
-<guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution</guid>
-<description>Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)</description>
-<category>Industry news</category>
-<pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
 </item>
 </channel>
 </rss>
