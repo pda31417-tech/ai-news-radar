@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 05:56:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 09:56:27 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
@@ -32,6 +32,14 @@
 <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
+<title>阶跃星辰开放 Step 5 Preview 权重并发布技术博客</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488160&amp;idx=1&amp;sn=427a3dc2e5b84b0977e1e5ea075cfbd7</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488160&amp;idx=1&amp;sn=427a3dc2e5b84b0977e1e5ea075cfbd7</guid>
+<description>阶跃星辰开放 Step 5 Preview 权重并发布技术博客</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 03:02:38 +0000</pubDate>
+</item>
+<item>
 <title>SentinelOne cuts malware analysis from weeks to hours</title>
 <link>https://openai.com/index/sentinelone</link>
 <guid isPermaLink="true">https://openai.com/index/sentinelone</guid>
@@ -46,6 +54,22 @@
 <description>GitHub Actions workflow lockfiles in public preview (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Wed, 14 Oct 2026 13:49:15 +0000</pubDate>
+</item>
+<item>
+<title>8 州联手起诉 OpenAI：ChatGPT"假朋友"伤害儿童，家长被指受骗</title>
+<link>https://www.aibase.com/news/31669</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31669</guid>
+<description>8 州联手起诉 OpenAI：ChatGPT"假朋友"伤害儿童，家长被指受骗 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 09:56:27 +0000</pubDate>
+</item>
+<item>
+<title>The states come for OpenAI</title>
+<link>https://www.platformer.news/openai-states-lawsuit-liability</link>
+<guid isPermaLink="true">https://www.platformer.news/openai-states-lawsuit-liability</guid>
+<description>The states come for OpenAI</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 00:52:13 +0000</pubDate>
 </item>
 <item>
 <title>卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频</title>
@@ -64,12 +88,12 @@
 <pubDate>Wed, 14 Oct 2026 23:39:08 +0000</pubDate>
 </item>
 <item>
-<title>AI冲击叠加债务压力，Getty Images启动全面财务重组</title>
-<link>https://www.aibase.com/news/31657</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31657</guid>
-<description>AI冲击叠加债务压力，Getty Images启动全面财务重组 (AIbase)</description>
+<title>自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687109&amp;idx=1&amp;sn=032fd9f6aab5ee20ea5d14f97bf48a86</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687109&amp;idx=1&amp;sn=032fd9f6aab5ee20ea5d14f97bf48a86</guid>
+<description>自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频</description>
 <category>Industry news</category>
-<pubDate>Thu, 15 Oct 2026 05:56:41 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 00:26:00 +0000</pubDate>
 </item>
 <item>
 <title>Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</title>
@@ -96,12 +120,28 @@
 <pubDate>Wed, 14 Oct 2026 22:02:05 +0000</pubDate>
 </item>
 <item>
-<title>How Block is building AI-powered security with OpenAI technology</title>
-<link>https://openai.com/index/block-ai-powered-security</link>
-<guid isPermaLink="true">https://openai.com/index/block-ai-powered-security</guid>
-<description>How Block is building AI-powered security with OpenAI technology (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
+<title>Anthropic 正式确认 Claude 订阅额度全面打通第三方应用</title>
+<link>https://www.aibase.com/news/31665</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31665</guid>
+<description>Anthropic 正式确认 Claude 订阅额度全面打通第三方应用 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 09:56:27 +0000</pubDate>
+</item>
+<item>
+<title>昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&amp;mid=2247510565&amp;idx=1&amp;sn=5c72103cec714f282c9260152a552294</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&amp;mid=2247510565&amp;idx=1&amp;sn=5c72103cec714f282c9260152a552294</guid>
+<description>昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&amp;mid=2247488073&amp;idx=1&amp;sn=1deff0f84dce1931113975e212a91644</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&amp;mid=2247488073&amp;idx=1&amp;sn=1deff0f84dce1931113975e212a91644</guid>
+<description>蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 01:10:27 +0000</pubDate>
 </item>
 <item>
 <title>It does mean that Claude continues from a summary instead of your full context though. You can turn it off with "idleCompaction": false i...</title>
@@ -110,14 +150,6 @@
 <description>It does mean that Claude continues from a summary instead of your full context though. You can turn it off with "idleCompaction": false i...</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 21:36:11 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic第三季度营收达168亿美元，计划11月启动IPO路演</title>
-<link>https://www.aibase.com/news/31653</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31653</guid>
-<description>Anthropic第三季度营收达168亿美元，计划11月启动IPO路演 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 15 Oct 2026 05:56:41 +0000</pubDate>
 </item>
 <item>
 <title>欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%</title>
@@ -134,38 +166,6 @@
 <description>Grok Voice 3.0 is now the world’s leading conversational voice model</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 21:32:41 +0000</pubDate>
-</item>
-<item>
-<title>Create, ship, and manage data-backed websites with Payload in Figma</title>
-<link>https://www.figma.com/blog/websites-with-payload-in-figma</link>
-<guid isPermaLink="true">https://www.figma.com/blog/websites-with-payload-in-figma</guid>
-<description>Create, ship, and manage data-backed websites with Payload in Figma (Figma AI / Agent / Make)</description>
-<category>Industry news</category>
-<pubDate>Thu, 15 Oct 2026 04:50:00 +0000</pubDate>
-</item>
-<item>
-<title>Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...</title>
-<link>https://x.com/arena/status/2110465487914295770</link>
-<guid isPermaLink="true">https://x.com/arena/status/2110465487914295770</guid>
-<description>Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...</description>
-<category>Industry news</category>
-<pubDate>Wed, 14 Oct 2026 20:19:17 +0000</pubDate>
-</item>
-<item>
-<title>How Third Moment Research runs 10,000 agents for 36+ hours</title>
-<link>https://openai.com/index/third-moment-research</link>
-<guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
-<description>How Third Moment Research runs 10,000 agents for 36+ hours (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>MiniMax 发布 IPO 辅导第二期进展，加速推进上市合规完善</title>
-<link>https://www.aibase.com/news/31655</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31655</guid>
-<description>MiniMax 发布 IPO 辅导第二期进展，加速推进上市合规完善 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 15 Oct 2026 05:56:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
