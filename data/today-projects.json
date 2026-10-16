@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T23:43:00.890798Z",
+  "generated_at": "2026-10-16T01:22:53.284195Z",
   "date": "2026-10-16",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T23:42:17.930668Z"
+      "observed_at": "2026-10-16T01:22:12.101283Z"
     },
     {
-      "id": "project_f90efea34b97",
-      "project_name": "Actually Asked",
-      "url": "https://www.producthunt.com/products/actually-asked",
-      "summary": "A self-improving branded AI FAQ page",
+      "id": "project_95fd9ffba194",
+      "project_name": "CodeCrab",
+      "url": "https://www.producthunt.com/products/codecrab",
+      "summary": "AI code reviews with deep analysis & multi-tool integrations",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A self-improving branded AI FAQ page」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A self-improving branded AI FAQ page\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-14T15:36:37Z",
-      "updated_at": "2026-10-15T23:14:20Z",
+      "recommend_reason_zh": "拿一段自己的代码试试它的 AI 审查，看看能否发现遗漏的问题。",
+      "recommend_reason_en": "Run its AI review on a piece of your own code and see whether it catches anything you missed.",
+      "published_at": "2026-10-13T02:12:58Z",
+      "updated_at": "2026-10-16T01:03:27Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T23:42:49.603510Z"
+      "observed_at": "2026-10-16T01:22:42.215964Z"
     },
     {
       "id": "project_36917ef32b44",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T23:42:17.930668Z"
+      "observed_at": "2026-10-16T01:22:12.101283Z"
     },
     {
-      "id": "project_cc4451bc42e9",
-      "project_name": "CmdRound",
-      "url": "https://www.producthunt.com/products/cmdround",
-      "summary": "Assess how engineers build with artificial intelligence",
+      "id": "project_f90efea34b97",
+      "project_name": "Actually Asked",
+      "url": "https://www.producthunt.com/products/actually-asked",
+      "summary": "A self-improving branded AI FAQ page",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Assess how engineers build with artificial intelligence」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Assess how engineers build with artificial intelligence\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-14T10:18:29Z",
-      "updated_at": "2026-10-15T21:33:23Z",
+      "recommend_reason_zh": "体验它主打的「A self-improving branded AI FAQ page」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A self-improving branded AI FAQ page\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-14T15:36:37Z",
+      "updated_at": "2026-10-16T00:41:20Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T23:42:49.603510Z"
+      "observed_at": "2026-10-16T01:22:42.215964Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1347,
+      "duration_ms": 1385,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 213,
+      "duration_ms": 105,
       "error": null
     }
   ]
