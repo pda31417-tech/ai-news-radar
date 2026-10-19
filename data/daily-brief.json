@@ -1,8 +1,268 @@
 {
-  "generated_at": "2026-10-19T10:47:44.685813Z",
+  "generated_at": "2026-10-19T14:44:18.030437Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f7501de552be",
+      "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
+      "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+      "primary_url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "af86cfcc60dc6cd382cf8967ebe05714431b8fc7",
+          "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
+          "title_zh": "某些基于 HTTPS 的 Git 可能暂时需要身份验证",
+          "title_en": "Some Git over HTTPS may temporarily require authentication",
+          "title_original": "Some Git over HTTPS may temporarily require authentication",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:37:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "af86cfcc60dc6cd382cf8967ebe05714431b8fc7",
+          "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
+          "title_zh": "某些基于 HTTPS 的 Git 可能暂时需要身份验证",
+          "title_en": "Some Git over HTTPS may temporarily require authentication",
+          "title_original": "Some Git over HTTPS may temporarily require authentication",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:37:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9423,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T10:37:30Z",
+      "latest_at": "2026-10-19T10:37:30Z",
+      "primary_item": {
+        "id": "af86cfcc60dc6cd382cf8967ebe05714431b8fc7",
+        "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
+        "title_zh": "某些基于 HTTPS 的 Git 可能暂时需要身份验证",
+        "title_en": "Some Git over HTTPS may temporarily require authentication",
+        "title_original": "Some Git over HTTPS may temporarily require authentication",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T14:45:11.315079Z"
+      }
+    },
+    {
+      "story_id": "story_1c2bfa5d3821",
+      "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+      "primary_url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
+          "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "title_zh": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改",
+          "title_en": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "title_original": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:29:09Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
+          "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "title_zh": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改",
+          "title_en": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "title_original": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:29:09Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9404,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T10:29:09Z",
+      "latest_at": "2026-10-19T10:29:09Z",
+      "primary_item": {
+        "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
+        "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+        "title_zh": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改",
+        "title_en": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+        "title_original": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T14:45:11.315079Z"
+      }
+    },
+    {
+      "story_id": "story_0e04939a4dfa",
+      "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
+          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:58:41Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
+          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:58:41Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9891,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T13:58:41Z",
+      "latest_at": "2026-10-19T13:58:41Z",
+      "primary_item": {
+        "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
+        "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+        "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T14:45:11.315079Z"
+      }
+    },
     {
       "story_id": "story_3e82f9917712",
       "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
@@ -52,15 +312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -86,92 +346,262 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
-      "story_id": "story_b5da960ac254",
-      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "primary_url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_d98a8d54de8d",
+      "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流 / Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+      "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
+      "primary_url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
+      "source": "n8n Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+          "id": "9643f2d6c6fb73c177b4398d337134cb5ad44c94",
+          "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流 / Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+          "title_zh": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
+          "title_en": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+          "title_original": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+          "summary": "n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
+          "source": "n8n Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-18T13:22:26Z",
+          "published_at": "2026-10-19T13:22:17Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "n8n Blog"
       ],
       "items": [
         {
-          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+          "id": "9643f2d6c6fb73c177b4398d337134cb5ad44c94",
+          "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流 / Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+          "title_zh": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
+          "title_en": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+          "title_original": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+          "summary": "n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
+          "source": "n8n Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-18T13:22:26Z",
+          "published_at": "2026-10-19T13:22:17Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7339,
+        "recency": 0.9805,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-18T13:22:26Z",
-      "latest_at": "2026-10-18T13:22:26Z",
+      "earliest_at": "2026-10-19T13:22:17Z",
+      "latest_at": "2026-10-19T13:22:17Z",
       "primary_item": {
-        "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-        "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+        "id": "9643f2d6c6fb73c177b4398d337134cb5ad44c94",
+        "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流 / Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+        "title_zh": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
+        "title_en": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+        "title_original": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+        "summary": "n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-        "source": "The Decoder：AI News（RSS）",
+        "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
+        "source": "n8n Blog",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
+      }
+    },
+    {
+      "story_id": "story_cf081871ae29",
+      "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+      "primary_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+      "source": "Meta Engineering Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
+          "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "title_zh": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
+          "title_en": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "title_original": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+          "recommend_reason_zh": null,
+          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:00:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Meta Engineering Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
+          "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "title_zh": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
+          "title_en": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "title_original": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+          "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+          "recommend_reason_zh": null,
+          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:00:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9752,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T13:00:10Z",
+      "latest_at": "2026-10-19T13:00:10Z",
+      "primary_item": {
+        "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
+        "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+        "title_zh": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
+        "title_en": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+        "title_original": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+        "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+        "recommend_reason_zh": null,
+        "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+        "source": "Meta Engineering Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T14:45:11.315079Z"
+      }
+    },
+    {
+      "story_id": "story_979604c06d35",
+      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+      "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+      "primary_url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+      "source": "PyTorch：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
+          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
+          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。",
+          "recommend_reason_zh": null,
+          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+          "source": "PyTorch：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T12:45:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "PyTorch：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
+          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
+          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。",
+          "recommend_reason_zh": null,
+          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+          "source": "PyTorch：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T12:45:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9718,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T12:45:23Z",
+      "latest_at": "2026-10-19T12:45:23Z",
+      "primary_item": {
+        "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
+        "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
+        "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。",
+        "recommend_reason_zh": null,
+        "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+        "source": "PyTorch：Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -223,15 +653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -257,92 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
-      }
-    },
-    {
-      "story_id": "story_f9057edcf67a",
-      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-      "url": "https://x.com/arena/status/2111894091168682086",
-      "primary_url": "https://x.com/arena/status/2111894091168682086",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
-          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-          "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2111894091168682086",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T18:56:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
-          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-          "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2111894091168682086",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T18:56:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7953,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-18T18:56:03Z",
-      "latest_at": "2026-10-18T18:56:03Z",
-      "primary_item": {
-        "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
-        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-        "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-        "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-        "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-        "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2111894091168682086",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -394,15 +739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -428,92 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
-      }
-    },
-    {
-      "story_id": "story_5291e4230e02",
-      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-      "primary_url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T10:52:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T10:52:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7079,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-18T10:52:39Z",
-      "latest_at": "2026-10-18T10:52:39Z",
-      "primary_item": {
-        "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-        "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-        "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-        "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-        "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-        "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -565,15 +825,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -599,7 +859,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -651,15 +911,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -685,7 +945,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -737,15 +997,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,7 +1031,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
+      }
+    },
+    {
+      "story_id": "story_c1ed5d1d1d6c",
+      "title": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "primary_url": "https://github.com/headroomlabs-ai/headroom",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "093d969b5df0dd7219c435be913cc5f6cb11279b",
+          "title": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "title_zh": null,
+          "title_en": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "title_original": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e1cb804b53124f9c1ad19fb33485ece6483ec26c",
+          "title": "headroomlabs-ai /      headroom",
+          "title_zh": null,
+          "title_en": "headroomlabs-ai /      headroom",
+          "title_original": "headroomlabs-ai /      headroom",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T14:32:32.600000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "093d969b5df0dd7219c435be913cc5f6cb11279b",
+          "title": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "title_zh": null,
+          "title_en": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "title_original": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e1cb804b53124f9c1ad19fb33485ece6483ec26c",
+          "title": "headroomlabs-ai /      headroom",
+          "title_zh": null,
+          "title_en": "headroomlabs-ai /      headroom",
+          "title_original": "headroomlabs-ai /      headroom",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T14:32:32.600000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5842,
+      "importance": 0.5842,
+      "importance_score": 0.5842,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9447,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-19T10:47:44.685813Z",
+      "latest_at": "2026-10-19T14:32:32.600000Z",
+      "primary_item": {
+        "id": "093d969b5df0dd7219c435be913cc5f6cb11279b",
+        "title": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "title_zh": null,
+        "title_en": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "title_original": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/headroomlabs-ai/headroom",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -823,15 +1201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -857,7 +1235,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -975,15 +1353,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5654,
-      "importance": 0.5654,
-      "importance_score": 0.5654,
+      "score": 0.5558,
+      "importance": 0.5558,
+      "importance_score": 0.5558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9703,
+        "recency": 0.9166,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1008,7 +1386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -1126,15 +1504,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5596,
-      "importance": 0.5596,
-      "importance_score": 0.5596,
+      "score": 0.5502,
+      "importance": 0.5502,
+      "importance_score": 0.5502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9376,
+        "recency": 0.8857,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1159,7 +1537,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -1211,15 +1589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1245,125 +1623,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
-      "story_id": "story_30854f5a1a39",
-      "title": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。 / mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-      "url": "https://github.com/mlabonne/llm-course",
-      "primary_url": "https://github.com/mlabonne/llm-course",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
+      "story_id": "story_508f030128c9",
+      "title": "显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model",
+      "primary_url": "https://100toolkit.com/blog/deslop-model",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ca99ef7004901126746429089ef00534ebf31bc0",
-          "title": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。 / mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-          "title_zh": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。",
-          "title_en": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-          "title_original": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-          "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "id": "e11219c84b53f2e493470bf844aef344c5178f9f",
+          "title": "显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_zh": "显示 HN：Qwen3-4B，AI 书写抽动训练完成",
+          "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_original": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/mlabonne/llm-course",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://100toolkit.com/blog/deslop-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T13:00:47Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "d840110d1210da077c48f2b57204e338812d0d17",
-          "title": "Mlabonne / LLM课程 / mlabonne /      llm-course",
-          "title_zh": "Mlabonne / LLM课程",
-          "title_en": "mlabonne /      llm-course",
-          "title_original": "mlabonne /      llm-course",
+          "id": "58bc651b5acd8a099696036a42faf56a6b6aa84a",
+          "title": "显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_zh": "显示 HN：Qwen3-4B，AI 书写抽动训练完成",
+          "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_original": "Show HN: Qwen3-4B with the AI writing tics trained out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/mlabonne/llm-course",
-          "source": "github",
+          "url": "https://news.ycombinator.com/item?id=50151928",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-18T12:26:24.600000Z",
+          "published_at": "2026-10-19T13:00:47Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub Trending",
-        "github"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "ca99ef7004901126746429089ef00534ebf31bc0",
-          "title": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。 / mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-          "title_zh": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。",
-          "title_en": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-          "title_original": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-          "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "id": "e11219c84b53f2e493470bf844aef344c5178f9f",
+          "title": "显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_zh": "显示 HN：Qwen3-4B，AI 书写抽动训练完成",
+          "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_original": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/mlabonne/llm-course",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://100toolkit.com/blog/deslop-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T13:00:47Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "d840110d1210da077c48f2b57204e338812d0d17",
-          "title": "Mlabonne / LLM课程 / mlabonne /      llm-course",
-          "title_zh": "Mlabonne / LLM课程",
-          "title_en": "mlabonne /      llm-course",
-          "title_original": "mlabonne /      llm-course",
+          "id": "58bc651b5acd8a099696036a42faf56a6b6aa84a",
+          "title": "显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_zh": "显示 HN：Qwen3-4B，AI 书写抽动训练完成",
+          "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+          "title_original": "Show HN: Qwen3-4B with the AI writing tics trained out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/mlabonne/llm-course",
-          "source": "github",
+          "url": "https://news.ycombinator.com/item?id=50151928",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-18T12:26:24.600000Z",
+          "published_at": "2026-10-19T13:00:47Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7261,
+        "recency": 0.9754,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T12:26:24.600000Z",
-      "latest_at": "2026-10-18T12:37:36.155591Z",
+      "earliest_at": "2026-10-19T13:00:47Z",
+      "latest_at": "2026-10-19T13:00:47Z",
       "primary_item": {
-        "id": "ca99ef7004901126746429089ef00534ebf31bc0",
-        "title": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。 / mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-        "title_zh": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。",
-        "title_en": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-        "title_original": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-        "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "id": "e11219c84b53f2e493470bf844aef344c5178f9f",
+        "title": "显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out",
+        "title_zh": "显示 HN：Qwen3-4B，AI 书写抽动训练完成",
+        "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+        "title_original": "Show HN: Qwen3-4B with the AI writing tics trained out",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/mlabonne/llm-course",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
+        "url": "https://100toolkit.com/blog/deslop-model",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
+      }
+    },
+    {
+      "story_id": "story_8a0a364cd62a",
+      "title": "Timestral：Mistral 发布时间序列基础模型",
+      "url": "https://mistral.ai/news/timestral",
+      "primary_url": "https://mistral.ai/news/timestral",
+      "source": "mistral.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "142b513d6f49b3eaa321805921757260eae3f74b",
+          "title": "Timestral：Mistral 发布时间序列基础模型",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": null,
+          "title_original": "Timestral：Mistral 发布时间序列基础模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T12:39:13.350000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3d92c8ab888bfdc7324e3fe6a90e7daca9630a1e",
+          "title": "Timestral：Mistral 发布时间序列基础模型 / Timestral: Mistral release time-series foundation models",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": "Timestral: Mistral release time-series foundation models",
+          "title_original": "Timestral: Mistral release time-series foundation models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T09:59:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "142b513d6f49b3eaa321805921757260eae3f74b",
+          "title": "Timestral：Mistral 发布时间序列基础模型",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": null,
+          "title_original": "Timestral：Mistral 发布时间序列基础模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T12:39:13.350000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3d92c8ab888bfdc7324e3fe6a90e7daca9630a1e",
+          "title": "Timestral：Mistral 发布时间序列基础模型 / Timestral: Mistral release time-series foundation models",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": "Timestral: Mistral release time-series foundation models",
+          "title_original": "Timestral: Mistral release time-series foundation models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T09:59:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9703,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-19T09:59:32Z",
+      "latest_at": "2026-10-19T12:39:13.350000Z",
+      "primary_item": {
+        "id": "142b513d6f49b3eaa321805921757260eae3f74b",
+        "title": "Timestral：Mistral 发布时间序列基础模型",
+        "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+        "title_en": null,
+        "title_original": "Timestral：Mistral 发布时间序列基础模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://mistral.ai/news/timestral",
+        "source": "mistral.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     },
     {
@@ -1481,15 +1977,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8398,
+        "recency": 0.7933,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1514,631 +2010,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
-      }
-    },
-    {
-      "story_id": "story_7cb041410c22",
-      "title": "Anthropic 的就业形势正在发生怎样的变化",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "primary_url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
-          "title": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": null,
-          "title_original": "Anthropic 的就业形势正在发生怎样的变化",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.176000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
-          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T10:49:26Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
-          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50139873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T10:49:26Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
-          "title": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": null,
-          "title_original": "Anthropic 的就业形势正在发生怎样的变化",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.176000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
-          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T10:49:26Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
-          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50139873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T10:49:26Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8228,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T10:49:26Z",
-      "latest_at": "2026-10-18T21:17:07.176000Z",
-      "primary_item": {
-        "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
-        "title": "Anthropic 的就业形势正在发生怎样的变化",
-        "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-        "title_en": null,
-        "title_original": "Anthropic 的就业形势正在发生怎样的变化",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/employment-at-anthropic",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
-      }
-    },
-    {
-      "story_id": "story_663035be8b47",
-      "title": "网站正纷纷关闭人工智能客服",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "www.theverge.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
-          "title": "网站正纷纷关闭人工智能客服",
-          "title_zh": "网站正纷纷关闭人工智能客服",
-          "title_en": null,
-          "title_original": "网站正纷纷关闭人工智能客服",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "www.theverge.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.202000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8edecd96644001a45c1dbe820028bb69980b9868",
-          "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
-          "title_zh": "网站正在向人工智能代理关闭大门",
-          "title_en": "Websites Are Closing Their Doors to AI Agents",
-          "title_original": "Websites Are Closing Their Doors to AI Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-18T19:24:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
-          "title": "网站正纷纷关闭人工智能客服 / Websites are closing their doors to AI agents",
-          "title_zh": "网站正纷纷关闭人工智能客服",
-          "title_en": "Websites are closing their doors to AI agents",
-          "title_original": "Websites are closing their doors to AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T14:58:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot",
-        "www.theverge.com"
-      ],
-      "items": [
-        {
-          "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
-          "title": "网站正纷纷关闭人工智能客服",
-          "title_zh": "网站正纷纷关闭人工智能客服",
-          "title_en": null,
-          "title_original": "网站正纷纷关闭人工智能客服",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "www.theverge.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.202000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8edecd96644001a45c1dbe820028bb69980b9868",
-          "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
-          "title_zh": "网站正在向人工智能代理关闭大门",
-          "title_en": "Websites Are Closing Their Doors to AI Agents",
-          "title_original": "Websites Are Closing Their Doors to AI Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-18T19:24:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
-          "title": "网站正纷纷关闭人工智能客服 / Websites are closing their doors to AI agents",
-          "title_zh": "网站正纷纷关闭人工智能客服",
-          "title_en": "Websites are closing their doors to AI agents",
-          "title_original": "Websites are closing their doors to AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T14:58:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8228,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T14:58:10Z",
-      "latest_at": "2026-10-18T21:17:07.202000Z",
-      "primary_item": {
-        "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
-        "title": "网站正纷纷关闭人工智能客服",
-        "title_zh": "网站正纷纷关闭人工智能客服",
-        "title_en": null,
-        "title_original": "网站正纷纷关闭人工智能客服",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "source": "www.theverge.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
-      }
-    },
-    {
-      "story_id": "story_f06226c1b35e",
-      "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-      "primary_url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
-          "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-          "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
-          "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
-          "title_original": "DeepSeek V4.1 Flash 1017 (Max)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-19T07:08:12.735000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "647417e53347c0b7ea93984538b594b6e0308a59",
-          "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-          "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
-          "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
-          "title_original": "DeepSeek V4.1 Flash 1017 (Max)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50148452",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T04:41:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "artificialanalysis.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
-          "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-          "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
-          "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
-          "title_original": "DeepSeek V4.1 Flash 1017 (Max)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-19T07:08:12.735000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "647417e53347c0b7ea93984538b594b6e0308a59",
-          "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-          "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
-          "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
-          "title_original": "DeepSeek V4.1 Flash 1017 (Max)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50148452",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T04:41:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9485,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-19T04:41:46Z",
-      "latest_at": "2026-10-19T07:08:12.735000Z",
-      "primary_item": {
-        "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
-        "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
-        "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
-        "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
-        "title_original": "DeepSeek V4.1 Flash 1017 (Max)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
-      }
-    },
-    {
-      "story_id": "story_7f01586b7dfa",
-      "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents",
-      "primary_url": "https://crystl.dev/guides/tmux-for-ai-agents",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "9e54f2f9c25a11615fac1e14728bf297df1ad899",
-          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
-          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://crystl.dev/guides/tmux-for-ai-agents",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T05:55:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "23ed3acce1a02dda09bf996310e6b2dd3f44a719",
-          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
-          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50148855",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T05:55:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9e54f2f9c25a11615fac1e14728bf297df1ad899",
-          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
-          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://crystl.dev/guides/tmux-for-ai-agents",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T05:55:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "23ed3acce1a02dda09bf996310e6b2dd3f44a719",
-          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
-          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50148855",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T05:55:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9321,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-19T05:55:31Z",
-      "latest_at": "2026-10-19T05:55:31Z",
-      "primary_item": {
-        "id": "9e54f2f9c25a11615fac1e14728bf297df1ad899",
-        "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-        "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
-        "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-        "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://crystl.dev/guides/tmux-for-ai-agents",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
-      }
-    },
-    {
-      "story_id": "story_e40c814da79b",
-      "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-      "url": "https://www.aibase.com/news/31729",
-      "primary_url": "https://www.aibase.com/news/31729",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
-          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "title_en": null,
-          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31729",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T10:47:44.685813Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
-          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "title_en": null,
-          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31729",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T10:47:44.685813Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T10:47:44.685813Z",
-      "latest_at": "2026-10-19T10:47:44.685813Z",
-      "primary_item": {
-        "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
-        "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-        "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-        "title_en": null,
-        "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31729",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:48:34.794674Z"
+        "scored_at": "2026-10-19T14:45:11.315079Z"
       }
     }
   ]
