@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:07:15.165915Z",
+  "generated_at": "2026-10-20T10:06:50.036135Z",
   "date": "2026-10-20",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-20T06:06:23.414076Z"
+      "observed_at": "2026-10-20T10:05:46.628461Z"
     },
     {
-      "id": "project_fd8240429eaf",
-      "project_name": "CrawlForge MCP",
-      "url": "https://www.producthunt.com/products/crawlforge-mcp",
-      "summary": "Give your AI agent 31 web tools in one MCP server",
+      "id": "project_88538f0ab096",
+      "project_name": "ESP-Mosaico",
+      "url": "https://www.producthunt.com/products/esp-mosaico",
+      "summary": "A modular development board built for agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Give your AI agent 31 web tools in one MCP server」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Give your AI agent 31 web tools in one MCP server\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-11T23:38:09Z",
-      "updated_at": "2026-10-20T04:49:48Z",
+      "recommend_reason_zh": "体验它主打的「A modular development board built for agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A modular development board built for agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-09-15T02:00:38Z",
+      "updated_at": "2026-10-20T10:06:16Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-20T06:07:02.953841Z"
+      "observed_at": "2026-10-20T10:06:39.764401Z"
     },
     {
       "id": "project_9b780e5528de",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-20T06:06:23.414076Z"
+      "observed_at": "2026-10-20T10:05:46.628461Z"
     },
     {
-      "id": "project_83310439724a",
-      "project_name": "Starkomand",
-      "url": "https://www.producthunt.com/products/starkomand",
-      "summary": "Run your AI coding agents on an infinite canvas.",
+      "id": "project_aba93354bbec",
+      "project_name": "Stella",
+      "url": "https://www.producthunt.com/products/stella-5",
+      "summary": "Your emotional wellness AI. A friend to figure it out with.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Run your AI coding agents on an infinite canvas」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Run your AI coding agents on an infinite canvas\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-17T07:14:53Z",
-      "updated_at": "2026-10-20T04:48:55Z",
+      "recommend_reason_zh": "体验它主打的「Your emotional wellness AI. A friend to figure it out with」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your emotional wellness AI. A friend to figure it out with\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-19T03:42:11Z",
+      "updated_at": "2026-10-20T10:06:15Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-20T06:07:02.953841Z"
+      "observed_at": "2026-10-20T10:06:39.764401Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1383,
+      "duration_ms": 1353,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 197,
+      "item_count": 50,
+      "duration_ms": 174,
       "error": null
     }
   ]
