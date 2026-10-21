@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-10-21T15:58:56.918648Z",
-  "date": "2026-10-21",
+  "generated_at": "2026-10-21T20:41:00.024669Z",
+  "date": "2026-10-22",
   "total_items": 4,
   "items": [
-    {
-      "id": "project_9b75bda91938",
-      "project_name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover l…」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover l...\") and judge whether it fits a task you have on hand.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-10-21T15:57:58.076517Z"
-    },
-    {
-      "id": "project_c5589c2597ed",
-      "project_name": "BAND for Developers",
-      "url": "https://www.producthunt.com/products/band",
-      "summary": "Coding agents, meet teamwork",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Coding agents, meet teamwork」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Coding agents, meet teamwork\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-12T21:02:39Z",
-      "updated_at": "2026-10-21T15:57:41Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T15:58:38.533273Z"
-    },
     {
       "id": "project_6426decba2ef",
       "project_name": "cloudflare/security-audit-skill",
@@ -43,21 +15,49 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T15:57:58.076517Z"
+      "observed_at": "2026-10-21T20:40:02.855587Z"
     },
     {
-      "id": "project_564ef2a3ae06",
-      "project_name": "Scout by Fini",
-      "url": "https://www.producthunt.com/products/fini-2",
-      "summary": "The AI coworker for support teams, on Slack",
+      "id": "project_c5589c2597ed",
+      "project_name": "BAND for Developers",
+      "url": "https://www.producthunt.com/products/band",
+      "summary": "Coding agents, meet teamwork",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The AI coworker for support teams, on Slack」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The AI coworker for support teams, on Slack\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-19T10:51:19Z",
-      "updated_at": "2026-10-21T15:50:36Z",
+      "recommend_reason_zh": "体验它主打的「Coding agents, meet teamwork」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Coding agents, meet teamwork\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T21:02:39Z",
+      "updated_at": "2026-10-21T20:39:31Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T15:58:38.533273Z"
+      "observed_at": "2026-10-21T20:40:51.640335Z"
+    },
+    {
+      "id": "project_65e32dabe8c3",
+      "project_name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "看看这个开源项目的「A high-throughput and memory-efficient inference and serving engine for LLMs」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"A high-throughput and memory-efficient inference and serving engine for LLMs\") and judge whether it fits a task you have on hand.",
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-10-21T20:40:02.855587Z"
+    },
+    {
+      "id": "project_21df5ac539ee",
+      "project_name": "AskDoozy",
+      "url": "https://www.producthunt.com/products/askdoozy",
+      "summary": "An AI coworker in Slack that does your real work",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "体验它主打的「An AI coworker in Slack that does your real work」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"An AI coworker in Slack that does your real work\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-20T13:14:45Z",
+      "updated_at": "2026-10-21T20:04:03Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-10-21T20:40:51.640335Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 13,
-      "duration_ms": 1418,
+      "item_count": 12,
+      "duration_ms": 1574,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 89,
+      "duration_ms": 135,
       "error": null
     }
   ]
