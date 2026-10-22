@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T15:54:08.342253Z",
-  "date": "2026-10-22",
+  "generated_at": "2026-10-22T20:35:50.818694Z",
+  "date": "2026-10-23",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T15:53:26.639593Z"
+      "observed_at": "2026-10-22T20:35:04.982489Z"
     },
     {
-      "id": "project_2389d5198344",
-      "project_name": "Dadan",
-      "url": "https://www.producthunt.com/products/dadan",
-      "summary": "One AI video workspace for recordings, meetings and guides",
+      "id": "project_bf24d3dbf951",
+      "project_name": "Concierge by Juniors AI",
+      "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+      "summary": "Omni-channel AI-first customer support (6 months free)",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「One AI video workspace for recordings, meetings and guides」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"One AI video workspace for recordings, meetings and guides\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-20T11:49:27Z",
-      "updated_at": "2026-10-22T15:48:18Z",
+      "recommend_reason_zh": "体验它主打的「Omni-channel AI-first customer support (6 months free)」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Omni-channel AI-first customer support (6 months free)\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-11T10:21:34Z",
+      "updated_at": "2026-10-22T20:34:08Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T15:53:58.062244Z"
+      "observed_at": "2026-10-22T20:35:40.853491Z"
     },
     {
       "id": "project_dbd5adafc407",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T15:53:26.639593Z"
+      "observed_at": "2026-10-22T20:35:04.982489Z"
     },
     {
-      "id": "project_bf24d3dbf951",
-      "project_name": "Concierge by Juniors AI",
-      "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
-      "summary": "Omni-channel AI-first customer support (6 months free)",
+      "id": "project_799d7395d3f7",
+      "project_name": "Claude Duet",
+      "url": "https://www.producthunt.com/products/claude",
+      "summary": "Proactive agent that understands what needs your attention",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Omni-channel AI-first customer support (6 months free)」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Omni-channel AI-first customer support (6 months free)\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-11T10:21:34Z",
-      "updated_at": "2026-10-22T15:05:36Z",
+      "recommend_reason_zh": "体验它主打的「Proactive agent that understands what needs your attention」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Proactive agent that understands what needs your attention\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-21T19:40:23Z",
+      "updated_at": "2026-10-22T20:34:29Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T15:53:58.062244Z"
+      "observed_at": "2026-10-22T20:35:40.853491Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 1927,
+      "duration_ms": 1233,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 118,
+      "duration_ms": 130,
       "error": null
     }
   ]
